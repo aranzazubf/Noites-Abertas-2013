@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.aranzazu.appnoites"
+    
+    android:versionCode="4"
+    android:versionName="1.0" >
+  <uses-sdk android:minSdkVersion="7" android:targetSdkVersion="17" />
+  
+     <uses-permission android:name="android.permission.INTERNET" />
+     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+
+<uses-permission android:name="android.permission.CALL_PHONE"/>
+
+     <supports-screens android:xlargeScreens="true"/>
+        
+ 
+
+    <application
+       
+        android:allowBackup="true"
+        android:icon="@drawable/icono"
+        android:theme="@style/Customtheme"
+      android:label="@string/name" >
+        <uses-library
+       android:name="com.google.android.maps"
+         android:required="true" />
+      
+        <activity
+            android:name="com.aranzazu.appnoites.Principal"
+            android:label="@string/name" 
+            
+            >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+         <activity android:name="com.aranzazu.appnoites.Noites"></activity>
+        <activity android:name="com.aranzazu.appnoites.Inicio"></activity>
+     <activity android:name="com.aranzazu.appnoites.Actividades"></activity>
+      <activity android:name="com.aranzazu.appnoites.Localizaciones"></activity>
+       <activity android:name="com.aranzazu.appnoites.Programa"></activity>
+        <activity android:name="com.aranzazu.appnoites.Colaboradores"></activity>
+         <activity android:name="com.aranzazu.appnoites.Febrero"></activity>
+        
+          <activity android:name="com.aranzazu.appnoites.Marzo"></activity>
+         
+          <activity android:name="com.aranzazu.appnoites.Abril"></activity>
+         
+                  
+          <activity android:name="com.aranzazu.appnoites.Maio"></activity>
+          <activity android:name="com.aranzazu.appnoites.Dia"></activity>
+           <activity android:name="com.aranzazu.appnoites.Folleto"></activity>
+               <activity android:name="com.aranzazu.appnoites.Grid"></activity>
+        
+    </application>
+
+</manifest>

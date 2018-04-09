@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="fill_parent"
+  android:layout_height="wrap_content"
+  android:orientation="horizontal" xmlns:fuentes="http://schemas.android.com/apk/res/com.aranzazu.appnoites">
+	<TableLayout
+    android:layout_width="fill_parent"
+  	android:layout_height="wrap_content">
+    <TableRow >
+  	<com.aranzazu.appnoites.CustomTextView
+    android:id="@+id/line_ap"
+    style="@style/texto_subtitulo"
+    fuentes:fuente="Myriad"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"/>
+    <com.aranzazu.appnoites.CustomTextView
+  	android:id="@+id/line_bp"
+    style="@style/texto_subtitulo"
+    fuentes:fuente="Myriad"
+    android:textSize="12sp"
+    android:textColor="#FFFFFF"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"/>
+  	<ImageView
+    android:id="@+id/icp"
+    android:layout_width="wrap_content"
+  	android:layout_height="wrap_content"/>
+	<ImageView
+    android:id="@+id/icp2"
+    android:layout_width="wrap_content"
+  	android:layout_height="wrap_content"/>
+  	</TableRow>
+ </TableLayout>
+</LinearLayout>

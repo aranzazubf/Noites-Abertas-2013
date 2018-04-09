@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name"></string>
+   
+    <string name="menu_settings">Settings</string>
+<string name="meses_item1">Febrero</string>
+<string name="meses_item2">Marzo</string>
+<string name="meses_item3">Abril</string>
+<string name="meses_item4">Mayo</string>
+<string name="titulo_pestana4">PROGRAMACIÓN</string>
+<string name="subtitulo_pestana4">Noites Abertas,2013</string>
+<string name="inicio1"><b>COUSAS QUE TES QUE SABER SOBRE AS ACTIVIDADES</b></string>
+<string name="inicio2"><b>De balde:</b></string>
+<string name="inicio2b">Todas as actividades son gratuítas.</string>
+<string name="inicio3"><b>Prazas dispoñibles:</b></string>
+<string name="inicio3b">Algunhas actividades teñen límite no nº de participantes para o que se farán sorteos das prazas se chegado o caso hai
+máis participantes ca prazas dispoñibles.</string>
+<string name="inicio4"><b>Inscrición previa:</b>.</string>
+<string name="inicio4b">Algunhas actividades requiren inscrición previa na Oficina de Xuventude cahamando ao 986 100 185 ext. 7491 de (de 9 a 15h) ou
+<a href="xuventude@pontevedra.eu">xuventude@pontevedra.eu</a>:"\n"Rutas \"noite de morcegos\" , \"unha noite no muíño\", ruta guiada \"quen son? únete á ruta\", observación
+astronómica, gynkana \"Pontevedra resolve os enigmas\", Torneo de Magic the Gatering, fotografía-lomografía, fotografía tradicional, fotografía
+baixo as estrelas, retoque fotográfico, creando blogs fotográficos, excursión ao skatepark e debuxo artístico)."\n"Acceso sen inscrición sempre
+que quedaran prazas dispoñibles</string>
+<string name="inicio5"><b>Debes levar...</b></string>
+<string name="inicio5b">Fíxate nas iconas dalgunhas actividades, son avisos importantes do que tes que saber antes de acudir á actividade.</string>
+<string name="inicio6"><b>As idades:</b> </string>
+<string name="inicio6b">Respecta as idades ás que van orientadas. Todas as actividades van dirixidas a mozos e mozas de 12 a 30 anos, agás as que se
+dirixen a mozos/as maiores de:</string>
+<string name="inicio7"><i> -14 anos</i> (paus de choiva, elaboración xabóns naturais, a horta no teu balcón, sexualidade, tiro con arco, coro moderno, guitarra, torneo
+de Magic the Gatering, fotografía-lomografía, fotografía tradicional, fotografía baixo as estrelas, retoque fotográfico e blogs).</string>
+<string name="inicio8"><i> -16 anos</i> (automaquillaxe, maquillaxe para ocasións especiais, \"Descobre o teatro por dentro\", furoshiki, coiro, masaxe tailandesa,
+relaxando corpo e mente, galletas decoradas, cociñas do mundo e debuxo artístico).</string>
+<string name="inicio9"><i> -18 anos</i> (III Certame de Fotografía Erótica, risoterapia e defensa persoal-hapkido).</string>
+<string name="inicio10"><b>CARNÉ DE SOCIO/A:</b></string>
+<string name="inicio10b">Fai o teu carné de socio/a."\n"Non é requisito para entrar nas actividades pero permíteche participar nos sorteos de bonos de libros ademais de obter
+información de primeira man sobre as actividades que organiza o Concello de Pontevedra para a mocidade ao longo de todo o ano.</string>
+<string name="inicio11"><b>III CERTAME DE FOTOGRAFÍA ERÓTICA "NOITES ABERTAS" </b></string>
+<string name="inicio11b"><b>Modalidade única:</b> mellor fotografía. Valorarase a proposta arriscada e a creatividade."\n"
+<b>Lugar e prazo de presentación:</b> na Oficina de Xuventude ata o 26 de abril de 2013 "\n"
+<b>Resolución de premios:</b> 4 de maio de 2013</string>
+ 
+<string name="localizaciones1"><b>ESPAZOS DE NOITES ABERTAS</b></string>
+<string name="localizaciones2"><b>CAMPOS DE HERBA SINTÉTICA</b></string>
+
+<string name="localizaciones3"><b>FROEBEL</b></string>
+
+<string name="localizaciones4"><b>CEIP MANUEL VIDAL PORTELA</b></string>
+
+<string name="localizaciones5"><b>LOCAL DE MÚSICA </b></string>
+
+<string name="localizaciones6"><b>PAVILLÓN MULTIUSOS</b></string>
+
+<string name="localizaciones7"><b>PAVILLÓN MUNICIPAL DOS DEPORTES</b> </string>
+<string name="localizaciones8"><b>PRAZA DE CURROS ENRIQUEZ E CASINO MERCANTIL</b></string>
+<string name="localizaciones9"><b>PRAZA DE OURENSE</b></string>
+<string name="localizaciones10"><b>PRAZA DA PEREGRINA</b></string>
+<string name="localizaciones11"><b>PRAZA DE SANTA MARÍA</b></string>
+<string name="localizaciones12"><b>ALAMEDA</b></string>
+<string name="localizaciones13"><b>TEATRO PRINCIPAL</b> </string>
+<string name="localizaciones14"><b>CASA AZUL</b></string>
+<string name="localizaciones15"><b>ESTACION DE AUTOBUSES (diante)</b></string>
+
+<string name="col1">Colaboradores</string>  
+<string name="col2">ASOCIACIÓNS E ENTIDADES QUE PARTICIPAN EN NOITES ABERTAS E COAS QUE PODES CONTACTAR A TRAVÉS DAS ACTIVIDADES</string>
+<string name="col3">ASOCIACIÓNS E CLUBES:</string>  
+<string name="col4"> <b>Arco Teucro:</b> tiro con arco"\n"
+<b>Asociación Astronómica Rías Baixas:</b> observación astronómica"\n"
+<b>Asociación Cultural Black Box Project:</b> break, beat box "\n"
+<b>Asociación Cultural N´allada:</b> ex-libris"\n"
+<b>Asociación Cultural Trépia: pasamanería:</b> abelorios tradicionais, baile galego, ganchiki: abelorios de ganchillo"\n"
+<b>Asociación Danzit.es:</b> danza contemporánea"\n"
+<b>Asociación Drosera Morcegos de Galicia:</b> ruta: “noite de morcegos” "\n"
+<b>Asociación Dusambá:</b> a cociña de Frida Khalo e gynkana: "Pontevedra resolve os enigmas""\n"
+<b>Asociación Lareira Global:</b> obradoiro de banda deseñada (iniciación)"\n"
+<b>Asociación de Percusionistas Omar:</b> djembé "\n"
+<b>CAFyD. Clube Deportivo CC. da Actividade Física e do Deporte:</b> torneo de fútbol sala, fútbol 7, fútbol sala"\n"
+<b>CCANVIHAR:</b> sexualidade"\n"
+<b>C.E.D. Cotobade:</b> torneo de dardos"\n"
+<b>Cine Club:</b> TeleNoites"\n"
+<b>Club Escola Hungaresa de Esgrima Pontevedra:</b> esgrima e loita escénica"\n"
+<b>Esbozos Asociación Xuvenil e Cultural:</b> wargames, xogos de estratexia (INFINITY)"\n"
+<b>Escola Xadrez Pontevedra:</b> xadrez (iniciación e partidas rápidas)"\n"
+<b>Greenpeace España:</b> obradoiro de paus de choiva, a horta no teu balcón, elaboración de xabóns naturais
+<b>Llu Llu Teatro:</b> Fitness (espectáculo promocional de NNAA)"\n"
+<b>Vailoporío:</b>ruta: "unha noite no muíño", ruta: “noite de morcegos” "\n"</string>
+
+<string name="col5">COLECTIVOS XUVENÍS</string>
+<string name="col6"><b>Colectivo de amigos/as da cultura xaponesa:</b> III Xornadas de manga e anime"\n"
+<b>Colectivo de skaters:</b> excursión ao skatepark de Oleiros "\n"
+<b>Grupo Nigerstella:</b> rock &amp; metal masterclass (iniciación) "\n"
+<b>Varios colectivos de mozos/as:</b> calceta e ganchillo, I Torneo de “Magic the Gatering”, relaxando corpo e mente, long board, maxia e ilusionismo"\n"</string>
+
+<string name="col7">PROPOSTAS INDIVIDUAIS DE MOZOS E MOZAS</string>
+<string name="col8">Abelorios Miyuki: anel básico, pendentes tubulares"\n"
+Baile latino: bachata, salsa, zouk, merengue"\n"
+Baile: flashmob e exhibición"\n"
+Batería (iniciación)"\n"
+Billarda"\n"
+Cociñas do mundo: árabe, asiática, postres (América e Asia, Europa e África)"\n"
+Combo multipercusión (iniciación)"\n"
+Coro moderno (iniciación)"\n"
+Creando blogs fotográficos"\n"
+Demostración de tamboril e gaita galega"\n"
+Debuxo artístico (iniciación)"\n"
+Defensa persoal-Hapkido"\n"
+Ecodeseño: reciclaxe téxtil, lámpadas"\n"
+Fimo: caixas decoradas, xoiería, broches"\n"
+Fotografía baixo as estrelas (saída)"\n"
+Fotografía e lomografía"\n"
+Fotografía tradicional"\n"
+Gaita galega (iniciación)"\n"
+Guitarra (iniciación)"\n"
+Manualidades: cofres tartaruga e xoaniña, organizador de aneis, serpentinas"\n"
+Manualidades recicladas"\n"
+Peluches con calcetíns"\n"
+Percusión tradicional: tamboril (iniciación)"\n"
+Pintura con plantillas"\n"
+Pintura Plakatstil"\n"
+ReciclArte: obxectos e adornos"\n"
+Reciclaxe creativa: perchas decoradas, bonecos, caixas"\n"
+Reciclaxe creativa: reutilizar materiais para o arte"\n"
+Reciclaxe creativa: colgantes de vento, boneco de trapo (autorretrato)"\n"
+Retoque fotográfico"\n"
+Swing Malabar: cariocas"\n"
+Xoiería Quilling: anel, pendentes, colgante"\n"</string>
+
+<string name="col9">EMPRESAS:</string>
+<string name="col10"><b>Abrakadabra:</b> furoshiki e coiro"\n"
+<b>Anias:</b> cociña"\n"
+<b>Estouche Ben! Centro de Terapias:</b> Taichi e Chikung"\n"
+<b>ETNOGA. Patrimonio Cultural:</b> ruta guiada: "Quen son? únete á ruta e descóbreo", campionato de bolos celtas e do Courel"\n"
+<b>Fogar12Fogar:</b> galletas decoradas"\n"
+<b>Ibuprofeno Teatro:</b> "Descobre o teatro por dentro", representación: "Pequenos actos pseudorrevolucionarios", teatro forum"\n"
+<b>Nova Xestión Cultural:</b> campaña publicitaria"\n"
+<b>La Clínica del Masaje:</b> masaxe tailandesa"\n"
+<b>Ponte Rodas CB:</b> patinaxe"\n"
+<b>Proceso Psicoloxía:</b> automaquillaxe básica, maquillaxe para ocasións especiais, III Certame de Fotografía Erótica Noites Abertas"\n"
+<b>Risotadas:</b> risoterapia e cestaría tradicional"\n"
+<b>Ventos, estudos ambientais:</b> limpadores ecolóxicos, perfumes vexetais, xoiería vexetal, marmeladas, encadernación ecolóxica"\n"
+<b>Vis Global SL:</b> jumpig clay (arxila polimérica)"\n"</string>
+<string name="col11a">COORDINACIÓN DO PROGRAMA NOITES ABERTAS</string>
+<string name="col11">Casa Azul, rúa de Sor Lucía, 2, 3º 36002 Pontevedra"\n"Tel. 986 100 185 (ext. 7491)</string>
+
+<string name="col12"><a href="xuventude@pontevedra.eu">xuventude@pontevedra.eu</a></string>
+<string name="col12a"><a href="xuventude@pontevedra.eu"></a>www.xuventude.pontevedra.eu</string>
+<string name="col12b"><a href="www.noitesabertas.com"></a> www.noitesabertas.com</string>
+<string name="col12c"><a href="www.facebook.com/noitesabertas">www.facebook.com/noitesabertas</a></string>
+<string name="organiza">ORGANIZA E FINANCIA</string>
+<string name="organiza2">Concellaría de Xuventude - Concello de Pontevedra</string>
+<string name="financia">FINANCIA</string>
+<string name="financia2">Ministerio de Sanidade, Servicios Sociais e igualdade e PNSD</string>
+<string name="colaboran">Local de música, IMD, CEIP Froebel, CEIO Vidal Portela, PCMA (Plan Municipal de Conductas Aditivas), Plan Municipal de Igualdade</string>
+
+
+<string name="aviso0">Inscripción previa. En caso de choiva, a organización cambiará a data da actividade.</string>
+<string name="aviso1">Leva roupa cómoda e calzado deportivo.</string>
+<string name="aviso2">Leva unha esteira ademáis de roupa cómoda</string>
+<string name="aviso3">Leva patíns e protectores</string>
+<string name="aviso4">Leva o teu longskate (se o tes), protectores e casco</string>
+<string name="aviso5">Leva cámara fotográfica dixital ou móbil con cámara con opción manual de tempo de exposición."\n"Se se dispón de trípode e disparador, convén traelo. Inscripción previa</string>
+<string name="aviso6">Leva instrumento, cables e /ou baquetas</string>
+<string name="aviso7">Inscripción previa. Roupa de abrigo, lanterna e calzado para auga. En caso de choiva, a organización cambiará a data da actividade. Consúltaa.</string>
+
+<string name="folleto1">FOLLETO EXPLICATIVO DE NOITES ABERTAS</string>
+<string name="erotismo1">Descarga as bases do Certame</string>
+
+<string name="folleto2">DESCARGA O FOLLETO DE NOITES ABERTAS 2013</string>
+<string name="name">Noites Abertas</string>
+</resources>

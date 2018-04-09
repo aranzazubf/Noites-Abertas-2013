@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="fill_parent"
+  android:layout_height="wrap_content"
+  android:orientation="vertical" 
+  xmlns:fuentes="http://schemas.android.com/apk/res/com.aranzazu.appnoites">
+	<TableLayout
+  	android:layout_width="fill_parent"
+  	android:layout_height="wrap_content">
+    	<TableRow >
+  		<com.aranzazu.appnoites.CustomTextView
+      	android:id="@+id/line_a"
+      	style="@style/texto_subtitulo"
+      	android:layout_width="wrap_content"
+      	android:layout_height="wrap_content"
+      	android:textStyle="bold" 
+      	fuentes:fuente="Myriad"/>
+		<ImageView 
+      	android:id="@+id/ic"
+      	android:layout_width="wrap_content"
+  		android:layout_height="wrap_content"/>
+  	    <ImageView 
+        android:id="@+id/ic2"
+        android:layout_width="wrap_content"
+  		android:layout_height="wrap_content"/>
+   		</TableRow>
+   </TableLayout>
+   <TableLayout
+        android:layout_width="fill_parent"
+		android:layout_height="wrap_content">
+    	<TableRow >
+ 		<com.aranzazu.appnoites.CustomTextView
+ 		android:id="@+id/line_ab"
+    	style="@style/texto_subtitulo"
+    	android:textSize="12sp"
+    	android:textColor="#808080"
+    	android:layout_width="fill_parent"
+    	android:layout_height="wrap_content"
+     	fuentes:fuente="Myriad"
+     	android:text="Data:"/>
+ 		<com.aranzazu.appnoites.CustomTextView android:id="@+id/line_b"
+    	style="@style/texto_subtitulo"
+    	android:textSize="12sp"
+    	android:textColor="#000000"
+    	android:layout_width="fill_parent"
+    	android:layout_height="wrap_content"
+     	fuentes:fuente="Myriad"/>
+ 		</TableRow>
+  		<TableRow >
+  		<com.aranzazu.appnoites.CustomTextView
+  		android:id="@+id/line_c"
+    	style="@style/texto_subtitulo"
+    	android:textSize="12sp"
+   		android:textColor="#808080"
+    	android:layout_width="fill_parent"
+    	android:layout_height="wrap_content"
+    	fuentes:fuente="Myriad"
+     	android:text="En:"/>
+   		<com.aranzazu.appnoites.CustomTextView android:id="@+id/line_d"
+    	style="@style/texto_subtitulo"
+    	android:textSize="12sp"
+    	android:textColor="#392348"
+    	android:layout_width="fill_parent"
+    	android:layout_height="wrap_content"
+    	fuentes:fuente="Myriad"
+    	android:text="lugar"/>
+   		</TableRow>
+</TableLayout>
+</LinearLayout>

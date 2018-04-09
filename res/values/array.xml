@@ -1,0 +1,1465 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="Tipologia">
+   <item>FÍSICO-DEPORTIVAS</item>
+   <item>CULTURAIS</item>
+   <item>FORMATIVAS</item>
+   <item>LÚDICAS</item>
+   <item>ESPECIAIS E DESENVOLVEMENTO PERSOAL</item>
+
+</string-array>
+<string-array name="fisicas">
+   <item>Billarda</item>
+   <item>Break</item> 
+   <item>Defensa persoal - Hapkido</item>
+   <item>Esgrima e loita escénica</item> 
+   <item>Excursión skatepark de Oleiros</item> 
+   <item>Fútbol sala</item> 
+   <item>Fútbol 7</item>
+   <item>Long Board (iniciación)</item> 
+   <item>Patinaxe (iniciación)</item>
+   <item>Taichi e Chikung:"\n"artes marciais internas</item>
+   <item>Tiro con Arco</item>
+   <item>Torneo de dardos</item>
+   <item>Torneo de fútbol sala</item>
+   <item>Xadrez (iniciación)</item>
+   <item>Xadrez (partidas rápidas)</item>     
+</string-array>
+<string-array name="descfisicas">
+    <item>Xogo tradicional galego que consiste en desprazar un obxecto (billarda) ata atravesar unha liña de meta antes que o rival."\n"Para conseguilo golpéase a billarda con unha vara de madeira (palán) de xeito que primeiro se eleve no aire e posteriormente, cun segundo ou sucesivos golpes, se envíe o máis lonxe posible en dirección a esa meta.</item>
+ <item>Se che interesa a cultura Hip Hop aquí coñecerás un dos seus elementos fundamentais, o baile."\n"Aprende sobre as súas orixes, relacións con outros estilos de baile e a súa evolución."\n"Practica os pasos fundamentais e o control do ritmo con mozos da Asociación Cultural Black Box Project</item>
+ <item>Aprende a resolver situacións nas que poidas precisar defenderte da man do Club de Hapkido."\n"Coñecerás as técnicas propias do Hapkido, arte marcial de defensa persoal cun uso proporcional da forza."\n"Leva roupa e calzado cómodos."\n"Actividade para maiores de 16 anos.</item>
+ <item>Nesta actividade a Escola Hungaresa de Esgrima Pontevedra iniciaravos na técnica da esgrima e loita escénica."\n"Practicaredes por parellas ou en grupos e faredes pequenas coreografías simulando situacións de pelexa."\n"Lembrade  traer roupa e calzado cómodos.</item>
+ <item>Noites Abertas desprázase ata Oleiros para patinar no seu skatepark."\n"Lembra traer o teu skate, proteccións (recomendable), comida e bebida para pasar o día."\n"Esta é unha das actividades que requiren inscrición previa.</item>
+ <item>O club deportivo CAFyD volve a propoñer un ano máis, a actividade máis demandada do programa. Velocidade e emoción en partidos de 10 minutos."\n"As dúas pistas do Pavillón Multiusos da Xunqueira listas para 3 horas de fútbol sala sen pausa."\n"Os equipos poden ser masculinos, femininos ou mixtos.</item>
+ <item>Partidos de 10 minutos de duración no que o importante é divertirse e xogar."\n"Un ano máis, o Club CAFyD organizará a distribución dos 3 campos de herba sintética para que xoguedes o máximo número posible de partidos.</item>
+ <item>Un grupo de mozos e mozas queren que aprendas a patinar ben co longskate (monopatín longo)."\n"Lembra traer roupa cómoda, casco, proteccións e o teu longskate, se o tes.</item>
+ <item>Sempre quixeches aprender a patinar e nunca atopabas o momento? pois en Noites Abertas xa o podes facer cos monitores da escola Ponte Rodas."\n"Os exercicios máis básicos combinados con todo tipo de xogos."\n"Só tes que traer os patíns e proteccións.</item>
+
+ <item>Achégate con Estouche Ben a estas artes marciais chinesas, coñéceas e experimenta os seus movementos básicos."\n"Non esquezas a roupa e calzado cómodos.</item>
+ <item>O club deportivo Arco Teucro facilitarache unha inesquecíbel experiencia con esta modalidade deportiva que sempre quixeches probar."\n"Demostra a túa capacidade de concentración e apunta ben."\n"Actividade para maiores de 14 anos.</item>
+ <item>Demostra a túa habilidade neste xogo. O C.E.D."\n"Cotobade porá á vosa disposición os dardos e as dianas, vós tedes que traer a puntería."\n"Participade en equipo ou individualmente.</item>
+ <item>Torneo que propón o Club deportivo CAFyD, con 3 categorías (cadete-xuvenil, sénior e feminina agrupada)."\n"Poderán participar un máximo de 8 equipos en cada categoría masculina e 4 na feminina."\n"Actividade con inscrición previa.</item>
+ <item>Aprende coa Escola Xadrez Pontevedra as regras, os movementos propios de cada peza e as estratexias a adoptar que che permitan dar xaque mate ao teu rival.</item>
+ <item>A Escola Xadrez Pontevedra propón partidas rápidas para que demostres o teu dominio neste deporte.</item>
+</string-array>
+<string-array name="culturais">
+   <item>A cociña de Frida Khalo</item>
+   <item>Campionato de bolos celtas e do Courel</item>
+   <item>Cestaría tradicional</item>
+   <item>Cociñas do mundo</item>
+   <item>Djembé (percusión)</item>
+   <item>Demostración de tamboril e gaita galega</item>
+   <item>Descobre o teatro por dentro</item>
+   <item>Gynkana:"\n"Pontevedra resolve os enigmas"\n"(grande xogo)</item>
+   <item>Observación astronómica</item>
+   <item>Pasamanería: abalorios tradicionais</item>
+   <item>Representación: \"Pequenos actos pseudorevolucionarios\" e teatro fórum</item>
+   <item>Ruta: \"unha noite no muiño\"</item>
+   <item>Ruta guiada: Quen son?"\n"únete á ruta e descóbreo</item>
+   <item>I Torneo de Magic the Gatering</item>
+   <item>III Xornada de manga e anime</item>
+</string-array>
+
+<string-array name="formativas">
+   <item>A horta no teu balcón</item>
+   <item>Baile galego (iniciación)</item>
+   <item>Baile latino</item>
+   <item>Baile: FlashMob</item>
+   <item>Batería (iniciación)</item>
+   <item>Beat Box (iniciación)</item>
+   <item>Combo multipercusión</item>
+   <item>Coro moderno</item>
+   <item>Creando blogs fotográficos</item>
+   <item>Danza contemporánea</item>
+   <item>Debuxo artístico (iniciación)</item>
+   <item>Elaboración de xabóns naturais</item>
+   <item>Ex-libris</item>
+   <item>Fotografía baixo as estrelas (saída)</item>
+   <item>Fotografía e lomografía</item>
+   <item>Fotografía tradicional</item>
+   <item>Galletas decoradas</item>
+   <item>Ganchillo e calceta: gorro, buff, funda</item>
+   <item>Gaita galega (iniciación)</item>
+   <item>Guitarra (iniciación)</item>
+   <item>Marmeladas:</item>
+   <item>Obradoiro de banda deseñada</item>
+   <item>Obradoiro de paus de choiva</item>
+   <item>Percusión tradicional: tamboril (iniciación)</item>
+   <item>Pintura con plantillas</item>
+   <item>Pintura Plakatstil</item>
+   <item>Retoque fotográfico (iniciación)</item>
+   <item>Rock\'n metal masterclass (iniciación)</item>
+   <item>Ruta: \"Noite de morcegos\"</item>
+</string-array> 
+
+<string-array  name="ludicas">
+   <item>Abelorios miyuki:</item>
+   <item>Coiro:</item>
+   <item>Ecodeseño: reciclaxe téxtil, lámpadas</item> 
+   <item>Encadernación ecolóxica</item>
+   <item>Fimo: caixas decoradas, xoiería, broches</item>
+   <item>Furoshiki: bolsos sen costuras</item>
+   <item>Ganchiki: abelorios de ganchillo</item>
+   <item>Jumping clay: arxila polimérica (imán de neveira e títeres de dedo)</item>
+   <item>Manualidades: cofres tartaruga e xoanila, organizadores de aneis, serpentinas</item>
+   <item>Manualidades recicladas</item>
+      <item>Manualidades recicladas</item>
+   <item>Maxia e ilusionismo</item>
+   <item>Peluches con calcentíns</item>
+   <item>Perfumes vexetais</item>
+   <item>ReciclArte: obxectos e adornos</item>
+   <item>Reciclaxe creativa: colgantes de vento e boneco de trapo(autorretrato)</item>
+   <item>Reciclaxe creativa: perchas decoradas e bonecos</item>
+   <item>Reciclaxe creativa: caixas</item>
+   <item>Reciclaxe creativa: reutilizar materiais para o arte</item>
+   <item>Swing malabar: cariocas:</item>
+   <item>Wargames: xogos de estratexia. INFINITY</item>
+   <item>Xoiería Quilling</item>
+   <item>Xoiería vexetal</item>
+</string-array>
+
+<string-array name="especiais">
+   <item>III Certame de Fotografía Erótica Noites Abertas</item>
+   <item>Automaquillaxe básica</item>
+   <item>Fitness</item>
+   <item>Exhibición de Break e Beat Box</item>
+   <item>Exhibición de flashmob e bailes</item>
+   <item>Limpadores ecolóxicos</item>
+   <item>Maquillaxe para ocasión</item>
+   <item>Masaxe tailandesa</item>
+   <item>Relaxando corpo e mente</item>
+   <item>Risoterapia</item>
+   <item>Risoterapia</item>
+   <item>Sexualidade</item>
+   <item>Sorteo bonos de libros</item>
+   <item>TeleNoites</item>	
+</string-array>
+<string-array name="especiais_h">
+   <item>prazo de entraga ata o 26 de abril</item>
+   <item>27 abril</item>
+   <item>espectaculo promocional</item>
+   <item>1 marzo</item>
+   <item>12 abril</item>
+   <item>23 febreiro</item>
+   <item>11 maio</item>
+   <item>22 febreiro, 8, 22 e 23 marzo</item>
+   <item>2 e 9 marzo</item>
+   <item>27 abril</item>
+   <item>30 marzo</item>
+   <item>1 marzo</item>
+   <item>29 marzo, 26 abril e 17 maio</item>
+   <item>22 febreiro, 2, 9 marzo e 12 abril</item> 
+</string-array>
+<string-array name="ludicas_h">
+   <item>16 marzo e 20 abril</item>
+   <item>15, 22 marzo, 5, 12, 26 e 10 maio</item>
+   <item>29 e 30 marzo</item>
+   <item>6 abril</item>
+   <item>2, 9 marzo, 13 e 20 abril</item>
+   <item>6 abril</item>
+   <item>23 febreiro, 2, 9 e 16 marzo</item>
+   <item>3 e 11 maio</item>
+   <item>30 marzo, 6 e 13 abril</item>
+   <item>27 abril</item>
+   <item>11 mayo</item>
+   <item>22 febreiro, 1, 8, 15 e 22 marzo</item>
+   <item>23 marzo, 13 abril e 11 maio</item>
+   <item>8 marzo</item>
+   <item>19 e 26 abril</item>
+   <item>22 e 23 marzo</item>
+   <item>22 febreiro e 8 marzo</item>
+   <item>28 marzo</item>
+   <item>2 e 9 marzo</item>
+   <item>23 febreiro, 2, 9 e 16 marzo</item>
+   <item>16 marzo e 20 abril</item>
+   <item>3, 10 e 17 maio</item>
+   <item>15 marzo</item>
+
+</string-array>
+<string-array name="fisicas_h">
+   <item>9 marzo, 20 abril e 4 maio </item>
+   <item>12, 19, 26 abril e 3 maio </item>
+   <item>22 febrerio, 1 , 8, 15 e 22 marzo </item>
+   <item>5, 12, 19, 26 abril e 3 maio </item>
+   <item>17 maio </item>
+   <item>23 febreiro, 16 marzo, 6 e 27 abril </item>
+   <item>2, 23 marzo, 13 abril e 4 maio </item>
+   <item>5, 12, 19, 26 abril, 3 e 10 maio </item>
+   <item>22 febrerio, 1, 8, 15, 22 e 29 marzo </item>
+   <item>23 febreiro e 2 marzo </item>
+   <item>9 marzo, 20 abril e 4 maio </item>
+   <item>13 abril </item>
+   <item>11 maio </item>
+   <item>10 e 17 maio </item>
+   <item>10 e 17 maio </item>
+</string-array>
+<string-array name="formativas_h">
+   <item>3 e 10 maio</item>
+   <item>2, 9, 16 e 23 marzo</item>
+   <item>22 febreiro, 1, 8, 15, 22, 28 e 29 marzo</item>
+   <item>5 abril</item>
+   <item>22 febreiro, 1, 8 e 15 marzo</item>
+   <item>8, 15, 22 marzo e 5 abril</item>
+   <item>19 abril, 3 e 10 maio</item>
+   <item>22 febreiro, 1, 8, 15 e 22 marzo</item>
+   <item>8 marzo</item>
+   <item>5, 12, 19, 26, 3 e 10 maio</item>
+   <item>29 marzo, 5, 12 e 19 abril</item>
+   <item>5 e 12 abril</item>
+   <item>1 marzo e 19 abril</item>
+   <item>22 febreiro</item>
+   <item>5, 12, 19 e 26 abril</item>
+   <item>9, 22 e 23 marzo</item>
+   <item>22 febreiro, 19 abril</item>
+   <item>22 febreiro, 1 e 28 marzo</item>
+   <item>5, 12, 19 e 26 abril</item>
+   <item>13, 20, 27 abril e 4 maio</item>
+   <item>28 marzo</item>
+   <item>23, 28, 29 e 30 marzo</item>
+   <item>1 e 8 marzo</item>
+   <item>5, 12, 19 e 26 abril</item>
+   <item>23 febreiro e 1 marzo</item>
+   <item>22, 28 marzo, 26 abril, 3, 10 e 17 maio</item>
+   <item>1 marzo</item>
+   <item>13, 20 e 27 abril</item>
+   <item>11 maio</item>
+</string-array>
+<string-array name="culturais_h">
+   <item>23 febreiro </item>
+   <item>27 abril</item>
+   <item>23 febreiro, 30 marzo e 13 abril</item>
+   <item>16 marzo, 13, 20 abril e 4 maio</item>
+   <item>5, 12, 19 e 26 abril </item>
+   <item>3 maio</item>
+   <item>6 abril</item>
+   <item>9 marzo</item>
+   <item>15 marzo </item>
+   <item>23 febreiro, 2, 9 e 16  marzo </item>
+   <item>6 abril </item>
+   <item>23 marzo </item>
+   <item>13 abril </item>
+   <item>23 marzo </item>
+   <item>15 e 16 marzo </item>
+</string-array>
+<string-array name="febreiro">
+    <item>Venres 22</item>
+    <item>Sabado 23</item>
+</string-array>
+<string-array name="marzo">
+    <item>Venres 1</item>
+    <item>Sabado 2</item>
+     <item>Venres 8</item>
+    <item>Sabado 9</item>
+     <item>Venres 15</item>
+    <item>Sabado 16</item>
+     <item>Venres 22</item>
+    <item>Sabado 23</item>
+    <item>Xoves 28</item>
+     <item>Venres 29</item>
+    <item>Sabado 30</item>
+</string-array>
+<string-array name="abril">
+    <item>Venres 5</item>
+    <item>Sabado 6</item>
+     <item>Venres 12</item>
+    <item>Sabado 13</item>
+     <item>Venres 19</item>
+    <item>Sabado 20</item>
+     <item>Venres 26</item>
+    <item>Sabado 27</item>
+    </string-array>
+    <string-array name="maio">
+    <item>Venres 3</item>
+    <item>Sabado 4</item>
+     <item>Venres 10</item>
+    <item>Sabado 11</item>
+     <item>Venres 17</item>
+    <item>Sabado 28</item>
+</string-array>
+<string-array name="Lugares">
+    <item>CEIP. FROEBEL</item>
+    <item>CAMPO. H. SINTÉTICA DA XUNQUEIRA</item>
+    <item>CEIP MANUEL VIDAL PORTELA</item>
+     <item>LOCAL DE MÚSICA</item>
+     <item>PAVILLÓN MULTIUSOS DA XUNQUEIRA</item>
+    <item>PAVILLÓN MUNICIPAL DOS DEPORTES</item>
+    <item>PRAZA DE CURROS ENRIQUEZ E CASINO MERCANTIL</item>
+     <item>PRAZA DE OURENSE</item>
+     <item>PRAZA DA PEREGRINA</item>
+    <item>PRAZA DE SANTA MARÍA</item>
+    <item>SENDEIRO DO RÍO GAFOS</item>
+     <item>TEATRO PRINCIPAL</item>
+<item>CASA AZUL</item>
+</string-array>
+
+        
+<string-array name="lugaresfeb22" > <!-- igual para mar8,22 -->
+<item>FROEBEL</item>
+<item>CASA AZUL</item>
+<item>LOCAL DE MÚSICA</item>
+<item>PAVILLÓN MUNICIPAL DOS DEPORTES</item>    
+</string-array>        
+
+		
+<string-array name= "lugfeb23"><!-- igual para mar 16 -->
+<item>FROEBEL</item>
+<item>CASA AZUL</item>
+<item>CEIP MANUEL VIDAL PORTELA</item>
+<item>PAVILLÓN MULTIUSOS</item>     
+</string-array>  
+
+
+
+
+<string-array name= "lugmar1">
+<item>FROEBEL</item>
+<item>CASA AZUL</item>
+<item>PRAZA DE OURENSE</item>
+<item>PAVILLÓN MUNICIPAL DOS DEPORTES</item>
+<item>LOCAL DE MÚSICA</item>            
+</string-array>     
+
+
+<string-array name= "lugmar2">
+<item>FROEBEL</item>horas
+<item>CASA AZUL</item>
+<item>CAMPOS DE HERBA SINTÉTICA</item>    
+</string-array>  
+
+<string-array name= "lugmar9">
+<item>FROEBEL</item>
+<item>CASA AZUL</item>
+<item>PAVILLÓN MULTIUSOS</item>     
+</string-array>     
+
+		
+<string-array name= "lugmar15">
+    <item>FROEBEL</item>
+<item>CASA AZUL</item>
+<item>Diante do PAVILLÓN MUNICIPAL</item>
+<item>LOCAL DE MÚSICA</item>
+<item>PAVILLÓN MUNICIPAL DOS DEPORTES</item>    
+</string-array>     
+
+<string-array name= "lugmar23">
+    <item>FROEBEL</item>
+<item>CASA AZUL</item>
+<item>CAMPOS DE HERBA SINTÉTICA</item>  
+<item>Saída diante de ESTACIÓN DE AUTOBUSES con Vaipolorío</item>
+</string-array>     
+<string-array name= "lugSemSta">
+    <item>FROEBEL</item>
+</string-array>     
+<string-array name= "lugabril5"><!-- igual abril19,maio3,10horas-->
+    <item>FROEBEL</item>
+    <item>PRAZA DE SANTA MARÍA</item>
+<item>CASA AZUL</item>
+<item>LOCAL DE MÚSICA</item>
+</string-array>     
+<string-array name= "lugabril6">
+<item>TEATRO PRINCIPAL</item>
+<item>FROEBEL</item>
+<item>PAVILLÓN MULTIUSOS</item>   
+</string-array>     
+<string-array name= "lugabril12">
+<item>FROEBEL</item>
+<item>PRAZA DE SANTA MARÍA</item>
+<item>CASA AZUL</item>
+<item>PRAZA DA PEREGRINA</item>
+<item>LOCAL DE MÚSICA</item>    
+</string-array>     
+<string-array name="lugaabril13">
+<item>FROEBEL</item>
+<item>CEIP MANUEL VIDAL PORTELA</item>
+<item>CAMPOS DE HERBA SINTÉTICA</item>  
+<item>LOCAL DE MÚSICA</item>         
+</string-array>     
+<string-array name="lugabril20">
+<item>FROEBEL</item>
+<item>CEIP MANUEL VIDAL PORTELA</item>
+<item>PAVILLÓN MULTIUSOS</item>  
+<item>LOCAL DE MÚSICA</item>      
+</string-array>    
+<string-array name= "lugabril26">
+<item>Fin prazo presentación \"III Certame de Fotografía Erótica Noites Abertas\"</item>
+<item>FROEBEL</item>
+<item>PRAZA DE SANTA MARÍA</item>
+<item>CASA AZUL</item>
+<item>LOCAL DE MÚSICA</item>       
+</string-array>     
+<string-array name= "lugabril27">
+<item>ALAMEDA</item>
+<item>CASA AZUL</item>
+<item>PAVILLÓN MULTIUSOS</item>      
+<item>LOCAL DE MÚSICA</item>      
+</string-array>     
+<string-array name= "lugmaio4">
+<item>Resolución de premios \"III Certame de Fotografía Erótica Noites Abertas\"</item>    
+<item>CEIP MANUEL VIDAL PORTELA</item>
+<item>PAVILLÓN MULTIUSOS</item>
+<item>CAMPOS DE HERBA SINTÉTICA</item>    
+<item>LOCAL DE MÚSICA</item>      
+</string-array>     
+<string-array name="lugmaio11">
+<item>FROEBEL</item>
+<item>Saída diante da ESTACIÓN DE AUTOBUSES con Vaipolotío</item>
+<item>PAVILLÓN MULTIUSOS</item>      
+</string-array>     
+<string-array name="lugmaio17">
+<item>Saída diante do PAVILLÓN MUNICIPAL</item>    
+<item>FROEBEL</item>    
+</string-array>     
+<string-array name="lugmaio18">
+<item>PRAZA CURROS ENRIQUEZ E CASINO MERCANTIL</item>    
+</string-array>  
+	<string-array name="actividadesfebrero23froebel">
+    <item>Cestaría tradicional</item>
+    <item>Ganchiki: abelorios de ganchillo</item>
+    <item>Pasamanería: abelorios tradicionais</item>
+	<item>Swing Malabar: cariocas</item>
+	</string-array>
+		<string-array name="horasfebrero23froebel">
+    	<item>20,30-23,30h.</item>
+    	<item>22-23,30h.</item>
+    	<item>22-23,30h.</item>
+   	 	<item>22-00h.</item>
+		</string-array>
+	<string-array name ="actividadesfebrero23casaazul">
+    <item>Taichi e Chikung:"\n"artes marciais internas</item>
+    <item>Limpadores ecolóxicos</item>
+    <item>Pintura con plantillas</item>
+	</string-array>
+		<string-array name="horasfebrero23casaazul">
+		<item>20-21,30h.</item>
+		<item>21-23h.</item>   
+		<item>21-00h.</item>
+		</string-array>
+	<string-array name ="actividadesfebrero23ceipmanuel">
+    <item>A cociña de Frida Khalo</item>
+	</string-array>
+		<string-array name="horasfebrero23ceipmanuel">
+		 <item>21-23h.</item>	
+		</string-array>
+	<string-array name ="actividadesfebrero23pavmultiusos">
+    <item>Fútbol sala</item>
+	</string-array>
+		<string-array name="horasfebrero23pavmultiusos">
+		<item>21-00h.</item>
+		</string-array>
+		
+		   
+	<string-array name="actividadesfebrero22froebel">
+    <item>Galletas decoradas</item>
+    <item>Baile Latino: Bachata I</item>
+    <item>Ganchillo e calceta: gorro</item>
+	<item>Maxia e ilusionismo</item>
+	<item>Patinaxe (iniciación)</item>
+	</string-array>
+		<string-array name="horasfebrero22froebel">
+   	 	<item>20-22h.</item>
+    	<item>20,30-22h.</item>
+    	<item>21-00h.</item>
+    	<item>22-23,30h.</item>
+    	<item>22-00h.</item>
+	</string-array>
+	<string-array name ="actividadesfebrero22casaazul">
+    <item>Telenoites</item>
+    <item>Fotografía baixo as estrelas (saída)</item>
+    <item>Reciclaxe creativa: perchas decoradas</item>
+    <item>Masaxe Tailandesa</item>
+	</string-array>
+		<string-array name="horasfebrero22casaaazul">
+		<item>21"-"23h.</item>
+		<item>21-00h.</item>   
+		<item>22-00h.</item>
+		<item>22-00h.</item> 
+		</string-array>
+	<string-array name ="actividadesfebrero22localmusica">
+    <item>Batería (iniciación)</item>
+    <item>Coro moderno (iniciación)</item>
+	</string-array>
+		<string-array name="horasfebrero22localmusica">
+	 	<item>20-22h.</item>
+		<item>22-00h.</item> 
+		</string-array>
+	<string-array name ="actividadesfebrero22pavmunicipal">
+    <item>Defensa persoal-Hapkido</item>
+	</string-array>
+		<string-array name="horasfebrero22pavmunicipal">
+		<item>21-23h.</item>
+		</string-array>
+			<string-array name="actividadesmarzo1froebel">
+    <item>Obradorio de paus de Choiva</item>
+    <item>Baile Latino: Salsa I</item>
+    <item>Ganchillo e calceta: buff</item>
+	<item>Maxia e ilusionismo</item>
+	<item>Patinaxe (iniciación)</item>
+	<item>Ex-libris</item>
+	</string-array>
+		<string-array name="horasmarzo1froebel">
+     	<item>20-22h.</item>
+    	<item>20,30-22h.</item>
+    	<item>21-00h.</item>
+    	<item>22-23,30h.</item>
+    	<item>22-00h.</item>  
+    	<item>22-00h.</item>
+	</string-array>
+	<string-array name ="actividadesmarzo1casaazul">
+    <item>Obradorio de Sexualidade</item>
+    <item>Retoque fotográfico (iniciación)</item>
+    <item>Pintura con plantillas</item>
+	</string-array>
+		<string-array name="horasmarzo1casaazul">
+		<item>21-23h.</item>   
+		<item>21-00h.</item>
+		<item>21-00h.</item>
+	</string-array>
+	
+	<string-array name ="actividadesmarzo1prazaou">
+    <item>Exhibición de break e beatbox</item>
+	</string-array>
+		<string-array name="horasmarzo1prazaou">
+	 	<item>20-22h.</item>	
+		</string-array>
+	<string-array name ="actividadesmarzo1pavmunicipal">
+    <item>Defensa persoal-Hapkido</item>
+	</string-array>
+		<string-array name="horasmarzo1pavmunicipal">
+		<item>21-23h.</item>
+		</string-array>
+	<string-array name ="actividadesmarzo1localmusica">
+    <item>Batería (iniciación)</item>
+    <item>Coro moderno (iniciación)</item>
+	</string-array>
+		<string-array name="horasmarzo1localmusica">
+	 	<item>20-22h.</item>
+		<item>22-00h.</item> 
+		
+		</string-array>
+		<string-array name= "actividadesmarzo2froeble">
+    <item>Fimo: caixas decoradas</item> 
+    <item>Baile galego (iniciación)</item>  
+ 	<item>Ganchiki: abelorios de ganchillo</item>
+    <item>Pasamanería: abelorios tradicionais</item>
+	<item>Swing Malabar: cariocas</item>
+	</string-array>
+		<string-array name="horasmarzo2froebel">
+    	<item>20-22h.</item>
+    	<item>21,30-23h.</item>
+    	<item>22-23,30h.</item>
+    	<item>22-23,30h.</item>
+   	 	<item>22-00h.</item>
+		</string-array>
+	<string-array name= "actividadesmarzo2casaazul">
+	<item>Taichi e Chikung:"\n"artes marciais internas</item>
+	<item>Reciclaxe creativa: reutilización de materiais</item>
+	<item>Telenoites</item>
+	<item>Relaxando corpo e mente</item>    
+	</string-array>
+	<string-array name="horasmarzo2casaazul">
+    	<item>20-21,30h.</item>
+    	<item>20-22h.</item>
+    	<item>21-23h.</item>
+   	 	<item>22-00h.</item>
+		</string-array>
+	<string-array name= "actividadesmarzo2camposh">
+	<item>Fútbol 7</item>
+	</string-array>	
+	<string-array name="horasmarzo2camposh">
+    	<item>22-01h.</item>
+		</string-array>	
+	<string-array name="actividadesmarzo8froebel">
+    <item>Obradorio de paus de Choiva</item>
+<item>Perfumes vexetais</item>
+<item>Baile latino: Zouk I</item>
+<item>Maxia e ilusionismo</item>
+<item>Patinaxe (iniciación)</item>
+</string-array>
+<string-array name="horasmarzo8froebel">
+    <item>20-22h.</item>
+     <item>20-22h.</item>
+     	<item>20,30-22h.</item>
+    	<item>22-23,30h.</item>
+    	<item>22-00h.</item>  
+</string-array>
+<string-array name="actividadesmarzo8casaazul">
+    <item>Creando blogs fotográficos</item>
+    <item>Reciclaxe creativa: bonecos</item>
+    <item>Masaxe tailandesa</item>
+</string-array>
+<string-array name="horasmarzo8casaazul">
+     <item>21-00h.</item>
+     <item>22-00h.</item>
+      <item>22-00h.</item>
+</string-array>
+<string-array name ="actividadesmarzo8localmusica">
+    <item>Batería (iniciación)</item>
+    <item>Beat Box (iniciación)</item>
+     <item>Coro moderno (iniciación)</item>
+	</string-array>
+		<string-array name="horasmarzo8localmusica">
+	 	<item>20-22h.</item>
+		<item>20-22h.</item>
+		<item>22-00h.</item> 
+		</string-array>
+		<string-array name= "actividadesmarzo8pavmunicipal">
+	<item>Defensa persoal-Hapkido</item>
+	</string-array>	
+	<string-array name="horasmarzo8pavmunicipal">
+    	<item>21-23h.</item>
+		</string-array>	
+<string-array name="actividadesmarzo9froebel">
+    <item>Gynkana: Pontevedra resolve os enigmas</item>
+    <item>Fimo: xoiería</item>
+<item>Baile galego (iniciación)</item>
+<item>Pasamanería: abelorios tradicionais</item>
+<item>Ganchiki: abelorios de ganchillo</item>
+<item>Swing Malabar: cariocas</item>
+</string-array>
+<string-array name="horasmarzo9froebel">
+    <item>20-22h.</item>
+     <item>20-22h.</item>
+     	<item>21,30-23h.</item>
+    	<item>22-23,30h.</item>
+    	<item>22-23,30h.</item>
+    	<item>22-00h.</item>  
+</string-array>
+<string-array name="actividadesmarzo9casaazul">
+    <item>Fotografía tradicional</item>
+   	<item>Reciclaxe creativa: reutilización de materiais</item>
+	<item>Telenoites</item>
+	<item>Relaxando corpo e mente</item>    
+	</string-array>
+	<string-array name="horasmarzo9casaazul">
+    	<item>20-22h.</item>
+    	<item>20-22h.</item>
+    	<item>21-23h.</item>
+   	 	<item>22-00h.</item>
+	</string-array>
+
+
+<string-array name ="actividadesmarzo9pavmultiusos">
+    <item>Tiro con arco</item>
+    <item>Billarda</item>
+   
+	</string-array>
+		<string-array name="horasmarzo9pavmultiusos">
+	 	<item>21-23h.</item>
+		<item>21-23h.</item>
+		
+		</string-array>
+<string-array name="actividadesmarzo15froebel">
+    <item>Xoiería vexetal</item>
+	<item>Baile latino: Merengue</item>
+	<item>Maxia e ilusionismo</item>
+	<item>Coiro: moedeiro</item>
+	<item>Patinaxe (iniciación)</item>
+	</string-array>
+	<string-array name="horasmarzo15froebel">
+   		<item>20-22h.</item>
+   		<item>20,30-22h.</item>
+        <item>22-23,30h.</item>
+    	<item>22-00h.</item>
+    	<item>22-00h.</item>    
+</string-array>
+<string-array name="actividadesmarzo15casaazul">
+    <item>III Xornada de manga e anime</item>
+
+</string-array>
+<string-array name="horasmarzo15casaazul">
+     <item>22-01h.</item>
+   
+</string-array>
+<string-array name="actividadesmarzo15diantpavmunicipal">
+    <item>Saída: observación astronómica:"\n"cometa Pantarrs, lúa, xúpiter, saturno...</item>
+</string-array>
+<string-array name="horasmarzo15diantpavmunicipal">
+    <item>19,30-01h"\n"(apróx)</item>
+</string-array>
+<string-array name ="actividadesmarzo15localmusica">
+    <item>Batería (iniciación)</item>
+    <item>Beat Box (iniciación)</item>
+     <item>Coro moderno (iniciación)</item>
+	</string-array>
+		<string-array name="horasmarzo15localmusica">
+	 	<item>20-22h.</item>
+		<item>20-22h.</item>
+		<item>22-00h.</item> 
+		</string-array>
+		<string-array name= "actividadesmarzo15pavmunicipal">
+	<item>Defensa persoal-Hapkido</item>
+	</string-array>	
+	<string-array name="horasmarzo15pavmunicipal">
+    	<item>21-23h.</item>
+		
+</string-array>  
+	<string-array name= "actividadesmarzo16froebel">
+    <item>Wargames, xogos de estratexia. INFINITY</item>
+    <item>Abelorios Miyuki: anel básico</item> 
+    <item>Baile galego (iniciación)</item>  
+ 	<item>Ganchiki: abelorios de ganchillo</item>
+    <item>Pasamanería: abelorios tradicionais</item>
+	<item>Swing Malabar: cariocas</item>
+	</string-array>
+		<string-array name="horasmarzo16froebel">
+    	<item>20-23h.</item>
+    	<item>20,30-00,30h.</item>
+    	<item>21,30-23h.</item>
+    	<item>22-23,30h.</item>
+    	<item>22-23,30h.</item>
+   	 	<item>22-00h.</item>
+		</string-array>		
+	<string-array name="actividadesmarzo16casaazul">
+	    <item>III Xornadas de manga e anime</item>
+	</string-array>		
+	<string-array name="horasmarzo16casaazul">
+	    <item>17-22h.</item>
+	</string-array>
+	<string-array name="actividadesmarzo16CEIPmanuel">
+	    <item> Cociñas do mundo: árabe</item>
+	</string-array>
+	<string-array name="horasmarzo16CEIPmanuel">
+	    <item>21-00h.</item>
+	</string-array>
+	<string-array name="actividadesmarzo16pavmultiusos">
+	    <item>Fútbol sala</item>
+	</string-array>
+	<string-array name="horasmarzo16pavmultiusos">
+	    <item>21-00h</item>
+	</string-array>
+
+<string-array name="actividadesmarzo22froebel">
+    <item>Baile latino: Bachata II</item>
+<item>Pintura Plakatstil</item>
+<item>Maxia e ilusionismo</item>
+<item>Patinaxe (iniciación)</item>
+<item>Coiro: estoxo</item>
+</string-array>
+<string-array name="horasmarzo22froebel">
+
+     	<item>20,30-22h.</item>
+    	<item>21-23,30h.</item>
+    	<item>22-23,30h.</item>
+    	<item>22-00h.</item>
+    	<item>22-00,30h.</item>  
+</string-array>
+<string-array name="actividadesmarzo22casaazul">
+    <item>Fotografía tradicional</item>
+    <item>Reciclaxe creativa: colgantes de vento</item>
+    <item>Masaxe tailandesa</item>
+</string-array>
+<string-array name="horasmarzo22casaazul">
+     <item>20-22h.</item>
+     <item>20-22,30h.</item>
+      <item>22-00h.</item>
+</string-array>
+<string-array name ="actividadesmarzo22localmusica">
+    <item>Beat Box (iniciación)</item>
+ 
+     <item>Coro moderno (iniciación)</item>
+	</string-array>
+		<string-array name="horasmarzo22localmusica">
+	 	<item>20-22h.</item>
+	
+		<item>22-00h.</item> 
+		</string-array>
+		<string-array name= "actividadesmarzo22pavmunicipal">
+	<item>Defensa persoal-Hapkido</item>
+	</string-array>	
+	<string-array name="horasmarzo22pavmunicipal">
+    	<item>21-23h.</item>
+		</string-array>	
+  
+	<string-array name= "actividadesmarzo23froebel">
+    <item>I Torneo de Magic the Gathering</item> 
+    <item>Peluches con calcetines</item>  
+ 	<item>Obradorio de banda deseñada</item>
+    <item>Baile galego (iniciación)</item>
+	
+	</string-array>
+		<string-array name="horasmarzo23froebel">
+    	<item>18-00h.</item>
+    	<item>20-22,30h.</item>
+    	<item>20-23h.</item>
+    	<item>21,30-23h.</item>
+    	
+		</string-array>
+	<string-array name= "actividadesmarzo23casaazul">
+	<item>Fotografía tradicional</item>
+	<item>Reciclaxe creativa:"\n"Boneco de trapo (autorretrato)</item>
+	<item>Masaxe Tailandesa</item>
+	
+	</string-array>
+	<string-array name="horasmarzo23casaazul">
+    	
+    	<item>20-22h.</item>
+    	<item>20-22,30h.</item>
+   	 	<item>22-00h.</item>
+		</string-array>
+	<string-array name= "actividadesmarzo23camposh">
+	<item>Fútbol 7</item>
+	</string-array>	
+	<string-array name="horasmarzo23camposh">
+    	<item>22-01h.</item>
+		</string-array>		
+	<string-array name="actividadesmarzo23estacion">
+	    <item>Ruta: \"unha noite no muíño\"</item>
+	</string-array>
+	<string-array name="horasmarzo23estacion">
+	    <item>19-22h.</item>
+	</string-array>
+	<string-array name="actividadessanta28">
+	    <item>Marmeladas</item>
+	    <item>Obradorio de banda deseñada</item>
+	    <item>Baile latino: Salsa II</item>
+	    <item>Pintura Plakatstil</item>
+	    <item>Ganchillo e calceta: funda</item>
+	    <item>Reciclaxe creativa: caixas</item>
+	</string-array>
+	<string-array name="horassanta28">
+	    <item>20-22h.</item>
+	    <item>20-23h.</item>
+	    <item>20,30-22h.</item>
+	    <item>21-23,30h.</item>
+	    <item>21-00h.</item>
+	    <item>22-00h.</item>
+	</string-array>
+	<string-array name="actividadessanta29">
+	    <item>Obradorio de banda deseñada</item>
+	    <item>Baile latino: Zouk II</item>
+	    <item>Debuxo artístico (inicación)</item>
+	    <item>Ecodeseño: reciclaxe téxtil</item>
+	    <item>Patinaxe (iniciación)</item>
+	</string-array>
+	<string-array name="horassanta29">
+	    
+	    <item>20-23h.</item>
+	    <item>20,30-22h.</item>
+	    <item>21-23h.</item>
+	    <item>21-00h.</item>
+	    <item>22-00h.</item>
+	</string-array>   
+	<string-array name="actividadessanta30">
+	    <item>Risoterapia</item>
+	    <item>Obradorio de banda deseñada</item>
+	    <item>Cestaría tradicional</item>
+	   
+	    <item>Ecodeseño: lámpadas</item>
+	    <item>Manualidades: cofres tartaruga e xoaniña</item>
+	</string-array>
+	<string-array name="horassanta30">
+	     <item>20-22h.</item>
+	    <item>20-23h.</item>
+	    <item>20,30-23,30h.</item>
+	    <item>21-00h.</item>
+	    <item>22-00h.</item>
+	</string-array>   
+	<string-array name="actividadesabril5froebel">
+	    <item>Esgrima e loita escénica</item>
+	    <item>Elaboración de xabóns naturais</item>
+	    <item>Debuxo artístico (iniciación)</item>
+	    <item>Coiro: funda de libreta</item>
+	</string-array>
+	<string-array name="horasabril5froebel">
+	    <item>20-22h.</item>
+	     <item>20-22h.</item>
+	      <item>21-23h.</item>
+	       <item>22-00,30h.</item>
+	</string-array>
+	<string-array name="actividadesabril5prazastamaria">
+	    <item>Long board (iniciación)</item>
+	</string-array>
+		<string-array name="horasabril5prazastamaria">
+	
+	       <item>20,30-22,30h.</item>
+	</string-array>
+	<string-array name="actividadesabril5casaazul">
+	    <item>Baile: Flashmob</item>
+	    <item>Fotografía-Lomografía:"\n"Coñecendo as nosas cámaras</item>
+	    <item>Danza contemporánea</item>
+	</string-array>
+	<string-array name="horasabril5casaazul">
+	    <item>20-21,30h</item>
+	    <item>21,30-23,30h.</item>
+	    <item>22-23,30h.</item>
+	</string-array>
+	<string-array name="actividadesabril5localmusica">
+	    <item>Beat Box (iniciación)</item>
+	      <item>Gaita galega (iniciación)</item>
+	        <item>Percusión tradicional: tamboril (iniciación)</item>
+	          <item>Djembé (percusión)</item>
+	</string-array>
+	<string-array name="horasabril5localmuscica">
+	    <item>20-22h.</item>
+	     <item>20-22h.</item>
+	      <item>22-23h.</item>
+	       <item>22-00h.</item>
+	</string-array>
+	<string-array name="actividadesabril6teatro">
+	    <item>\"Descobre o teatro por dentro\""\n"Encontro co equipo artístico</item>
+		<item>Representación \"Pequenos actos pseudorrevolucionarios\"</item>
+		<item>Teatro forum</item>
+	</string-array>
+	<string-array name="horasabril6teatro">
+	    <item>19-21h.</item>
+	    <item>21h.</item>
+	    <item>22,15h.</item>
+	</string-array>
+	<string-array name="actividadesabril6froebel">
+	    <item>Furoshiki: bolsos sen costuras</item>
+	    <item>Encadernación ecolóxica</item>
+	    <item>Manualidades: organizador de aneis</item>
+	</string-array>
+	<string-array name="horasabril6froebel">
+	    <item>20,30-22h.</item>
+	    <item>22-00h.</item>
+	    <item>22-00h.</item>
+	</string-array>
+	<string-array name="actividadesabril6pavmultiusos">
+	    <item>Fútbol Sala</item>
+	</string-array>
+	<string-array name="horasabril6pavmultiusos">
+	    <item>21-00h.</item>
+	</string-array>
+		<string-array name="actividadesabril12froebel">
+	    <item>Esgrima e loita escénica</item>
+	    <item>Elaboración de xabóns naturais</item>
+	    <item>Debuxo artístico (iniciación)</item>
+	    <item>Coiro: espello forrado</item>
+	</string-array>
+	<string-array name="horasabril12froebel">
+	    <item>20-22h.</item>
+	     <item>20-22h.</item>
+	      <item>21-23h.</item>
+	       <item>22-00,30h.</item>
+	</string-array>
+	<string-array name="actividadesabril12prazastamaria">
+	    <item>Long board (iniciación)</item>
+	</string-array>
+		<string-array name="horasabril12prazastamaria">
+	
+	       <item>20,30-22,30h.</item>
+	</string-array>
+	<string-array name="actividadesabril12casaazul">
+	    <item>Break</item>
+	    <item>Telenoites</item>
+	    <item>Fotografía-Lomografía:"\n"Saída a lomografar</item>
+	    <item>Danza contemporánea</item>
+	</string-array>
+	<string-array name="horasabril12casaazul">
+	    <item>20-22h</item>
+	    <item>21-23h.</item>
+	    <item>21,30-00,30h.</item>
+	    <item>22-23,30h.</item>
+	</string-array>
+	<string-array name="actividadesabril12prazaperegrina">
+	    <item>Exhibición de Flashmob e bailes</item>
+	</string-array>
+	<string-array name="horasabril12prazaperegrina">
+	      <item>20-21,30h.</item>
+	</string-array>
+	   
+	<string-array name="actividadesabril12localmusica">
+	   
+	      <item>Gaita galega (iniciación)</item>
+	        <item>Percusión tradicional: tamboril (iniciación)</item>
+	          <item>Djembé (percusión)</item>
+	</string-array>
+	<string-array name="horasabril12localmuscica">
+	    
+	     <item>20-22h.</item>
+	      <item>22-23h.</item>
+	       <item>22-00h.</item>
+	</string-array>
+
+	<string-array name="actividadesabril13froebel">
+	    <item>Fimo: xoiería</item>
+	    <item>Peluches con calcetíns</item>
+	    <item>Torneo de Dardos</item>
+	    <item>Cestaría tradicional</item>
+	    <item>Ruta guiada:"\n"\"Quen son? únete á ruta e descóbreo\"</item>
+	    <item>Manualidades: serpentinas</item>
+	</string-array>
+	<string-array name="horasabril13froebel">
+	    <item>20-22h.</item>
+	    <item>20-22,30h.</item>
+	    <item>20-00h.</item>
+	    <item>20,30-23,30h.</item>
+	    <item>21-23h.</item>
+	    <item>22-00h.</item>
+	</string-array>	
+	<string-array name="actividadesabril13ceipmanuel">
+	    <item>Cociñas do mundo: asiática</item>
+	</string-array>
+	<string-array name="horasabril13ceipmanuel">
+	    <item>21-00h.</item>
+	</string-array>
+	<string-array name="actividadesabril13camposh">
+	    <item>Fútbol 7</item>
+	</string-array>
+	<string-array name="horasabril13camposh">
+	    <item>22-01h.</item>
+	</string-array>
+	<string-array name="actividadesabril13localmusica">
+	    <item>Guitarra (iniciación)</item>
+	    <item>Rock\'n metal masterclass (iniciación)</item>
+	</string-array>
+	<string-array name="horasabril13localmusica">
+	    <item>20-22h.</item>
+	    <item>22-00h.</item>
+	</string-array>
+	
+<string-array name="actividadesabril19froebel">
+    <item>Esgrima e loita escénica</item>
+    <item>Galletas decoradas</item>
+    <item>Debuxo artístico (iniciación)</item>
+    <item>Ex-libris</item>
+</string-array>	
+<string-array name="horasabril19froebel">
+    <item>20-22h.</item>
+    <item>20-22h.</item>
+    <item>21-23h.</item>
+    <item>22-00h.</item>
+</string-array>
+<string-array name="actividadesabril19prazastamaria">
+    <item>Long board (iniciación)</item>
+</string-array>
+<string-array name="horasabril19prazastamaria">
+    <item>20,30-22,30</item>
+</string-array>
+<string-array name="actividadesabril19casaazul">
+    <item>Break</item>
+    <item>Fotrografía-Lomografía:"\n"Álbum dixital</item>
+    <item>Danza contemporánea</item>
+    <item>ReciclArte: obxectos e adornos</item>
+</string-array>
+<string-array  name= "horasabril19casaazul">
+    <item>20-22h.</item>
+     <item>21,30-23,30h.</item>
+    <item>22-23,30h.</item>
+     <item>22-00h.</item>
+</string-array>
+<string-array name="actividadesabril19localmusica">
+    <item>Gaita galega (iniciación)</item>
+    <item>Combo multipercusión (iniciación)</item>
+    <item>Percusión tradicional: tamboril (iniciación)</item>
+    <item>Djembé (iniciación)</item>
+</string-array>
+<string-array name="horasabril19localmusica">
+     <item>20-22h.</item>
+     <item>20-22h.</item>
+    <item>22-23h.</item>
+    <item>22-00h.</item>
+</string-array>
+<string-array name="actividadesabril20froebel">
+    <item>Fimo: broches</item>
+    <item>Wargames, xogos de estratexia. INFINITY</item>
+    <item>Abelorios Miyuki: pendentes tubulares</item>
+</string-array>
+<string-array name="horasabril20froebel">
+    <item>20-22h.</item>
+    <item>20-23h.</item>
+    <item>20,30-23,30</item>
+</string-array>
+<string-array name="actividadesabril20ceipmanuel">
+    <item>Cociñas do mundo: postres (América e Asia)</item>
+</string-array>	
+<string-array name="horasabril20ceipmanuel">
+    <item>21-00h.</item>
+</string-array>
+<string-array name="actividadesabril20pavmultiusos">
+    <item>Tiro con arco</item>
+    <item>Billarda</item>
+</string-array>
+<string-array name="horasabril20pavmultiusos">
+    <item>21-23h.</item>
+    <item>21-23h.</item>
+</string-array>
+<string-array name= "actividadesabril20localmusica">
+    <item>Guitarra (iniciación)</item>
+    <item>Rock \'n metal masterclass (iniciación)</item>
+</string-array>
+<string-array name="horasabril20localmusica">
+    <item>20-22h.</item>
+    <item>22-00h.</item>
+</string-array>
+<string-array name="actividadesabril26froebel">
+    <item>Esgrima e loita escénica</item>
+    <item>Pintura Plaktstil</item>
+    <item>Coiro: pulseiras e colares</item>
+</string-array>
+<string-array name="horasabril26froebel">
+    <item>20-22h.</item>
+    <item>21-23,30h.</item>
+    <item>22-00h.</item>
+</string-array>
+<string-array name="actividadesabril26prazastamaria">
+	    <item>Long board (iniciación)</item>
+	</string-array>
+		<string-array name="horasabril26prazastamaria">
+	
+	       <item>20,30-22,30h.</item>
+	</string-array>
+	<string-array name="actividadesabril26casaazul">
+    <item>Break</item>
+    <item>Fotrografía-Lomografía:"\n"Álbum dixital</item>
+    <item>Danza contemporánea</item>
+    <item>ReciclArte: obxectos e adornos</item>
+</string-array>
+<string-array  name= "horasabril26casaazul">
+    <item>20-22h.</item>
+     <item>21,30-23,30h.</item>
+    <item>22-23,30h.</item>
+     <item>22-00h.</item>
+</string-array>
+<string-array name="actividadesabril26localmusica">
+    <item>Gaita galega (iniciación)</item>
+  
+    <item>Percusión tradicional: tamboril (iniciación)</item>
+    <item>Djembé (iniciación)</item>
+</string-array>
+<string-array name="horasabril26localmusica">
+     <item>20-22h.</item>
+  
+    <item>22-23h.</item>
+    <item>22-00h.</item>
+</string-array>
+<string-array name="actividadesabril27alameda">
+    <item>Campionato de Bolos"\n"celtas e do Courel</item>
+</string-array>
+<string-array name="horasabril27alameda">
+    <item>20-21,30h.</item>
+</string-array>
+<string-array name="actividadesabril27casaazul">
+    <item>Risoterapia</item>
+    <item>Manualidades recicladas</item>
+    <item>Automaquillaxe básica</item>
+</string-array>
+<string-array name="horasabril27casaazul">
+    <item>20-22h.</item>
+    <item>22-00h.</item>
+    <item>21-00h.</item>
+</string-array>
+<string-array name="actividadesabril27pavmultiusos">
+   <item>Fútbol sala</item>
+   
+</string-array>
+<string-array name="horasabril27pavmultiusos">
+     <item>21-00h.</item>
+</string-array>
+
+<string-array name="actividadesabril27localmusica">
+  <item>Guitarra (iniciación)</item>
+    <item>Rock \'n metal masterclass (iniciación)</item>
+</string-array>
+<string-array name="horasabril27localmusica">
+    <item>20-22h.</item>
+    <item>22-00h.</item>
+</string-array>
+<string-array name="actividadesmaio3froebel">
+    <item>Esgrima e loita escénica</item>
+    <item>Pintura Plakatstil</item>
+    <item>Xoiería Quilling: anel</item>
+    <item>Jumping clay:"\n"Arxila polimérica: imán de neveira</item>
+</string-array>
+<string-array name="horasmaio3froebel">
+    <item>20-22h.</item>
+    <item>21-23,30h.</item>
+    <item>22-23,30h.</item>
+    <item>22-00h.</item>    
+</string-array>
+<string-array name="actividadesmaio3prazastamaria">
+    <item>Long Board (iniciación)</item>
+</string-array>
+<string-array name="horasmaio3prazastamaria">
+    <item>20,30-22,30h.</item>
+</string-array>
+<string-array name="actividadesmaio3casaazul">
+    <item>A horta no teu balcón</item>
+    <item>Break</item>
+    <item>Danza contemporánea</item>
+</string-array>
+<string-array name="horasmaio3casaazul">
+    <item>20-22h.</item>
+      <item>20-22h.</item>
+    <item>22-23,30h.</item>
+</string-array>
+<string-array name="actividadesmaio3localmusica">
+    <item>Combo multipercusión (iniciación)</item>
+    <item>Gaita e tamboril: demostración</item>
+</string-array>
+<string-array name="horasmaio3localmusica">
+    <item>20-22h.</item>
+    <item>22-23,30h.</item>
+</string-array>
+<string-array name="actividadesmaio4ceipmanuel">
+    <item>Cociñas do mundo: postres (Europa e África)</item>
+</string-array>
+<string-array name="horasmaio4ceipmanuel">
+    <item>21-00h</item>
+</string-array>
+<string-array name="actividadesmaio4pavmultiusos">
+    <item>Tiro con arco</item>
+    <item>Billarda</item>
+</string-array>
+<string-array name="horasmaio4pavmultiusos">
+    <item>21-23h.</item>
+     <item>21-23h.</item>
+</string-array>
+
+<string-array name="actividadesmaio4camposh">
+    <item>Fútbol 7</item>
+</string-array>
+<string-array name="horasmaio4camposh">
+    <item>22-01h.</item>
+</string-array>
+<string-array name="actividadesmaio4localmusica">
+    <item>Guitarra (iniciación)</item>
+</string-array>
+<string-array name="horasmaio4localmusica">
+    <item>20-22h.</item>
+</string-array>
+
+<string-array name="actividadesmaio10froebel">
+    <item>Pintura Plakatstil</item>
+    <item>Xadrez: iniciación</item>
+	<item>Xadrez:partidas rápidas</item>
+	<item>Xoiería Quilling: pendentes</item>
+	<item>Coiro: chaveiros</item>
+	
+</string-array>
+<string-array name="horasmaio10froebel">
+    <item>21-23,30</item>
+    <item>21-00h</item>
+     <item>21-00h</item>
+     <item>22-23,30</item>
+      <item>22-00h</item>
+</string-array>
+
+<string-array name="actividadesmaio10prazastamaria">
+    <item>Long Board (iniciación)</item>
+</string-array>
+<string-array name="horasmaio10prazastamaria">
+    <item>20,30-22,30h.</item>
+</string-array>
+<string-array name="actividadesmaio10casaazul">
+    <item>A horta no teu balcón</item>
+   
+    <item>Danza contemporánea</item>
+</string-array>
+<string-array name="horasmaio10casaazul">
+    <item>20-22h.</item>
+   
+    <item>22-23,30h.</item>
+</string-array>
+<string-array name="actividadesmaio10localmusica">
+    <item>Combo multipercusión (iniciación)</item>
+  
+</string-array>
+<string-array name="horasmaio10localmusica">
+    <item>20-22h.</item>
+    
+</string-array>
+<string-array name="actividadesmaio11froebel">
+    <item>Peluches con calcetíns</item>
+    <item>Jumping clay:"\n"Árxila polimérica: títeres de dedos</item>
+    <item>Maquillaxe para ocasións especiais</item>
+    <item>Manualidades recicladas</item>
+</string-array>
+<string-array name="horasmaio11froebel">
+    <item>20-22,30h.</item>
+    <item>20-00h.</item>
+    <item>21-00h.</item>
+    <item>22-00h.</item>
+</string-array>
+<string-array name="actividadesmaio11estacion">
+    <item>Noite de morcegos (ruta guiada)</item>
+</string-array>
+<string-array name="horasmaio11estacion">
+    <item>21-23h.</item>
+</string-array>
+<string-array name="actividadesmaio11pavmultiusos">
+    <item>Torneo de fútbol sala</item>
+</string-array>
+<string-array name="horasmaio11pavmultiusos">
+    <item>21-01,30h.</item>
+</string-array>
+<string-array name="actividadesmaio17pavmunicipal">
+    <item>Excursión skatepark de Oleiros</item>    
+</string-array>
+<string-array name="horasmaio17pavmunicipal">
+    <item>9-20h.</item>
+    </string-array>
+<string-array name="actividadesmaio17froebel">
+    <item>Pintura Plakatstil</item>
+    <item>Xadrez: iniciación</item>
+	<item>Xadrez:partidas rápidas</item>
+	<item>Xoiería Quilling: colgante</item>
+
+</string-array>
+<string-array name="horasmaio17froebel">
+    <item>21-23,30</item>
+    <item>21-00h</item>
+     <item>21-00h</item>
+      <item>22-00h</item>
+      
+</string-array>
+<string-array name="actividadesmaio18">
+    <item>Concerto final NNAA</item>
+</string-array>
+<string-array name="horasmaio18">
+    <item>10-23h.</item>
+</string-array>
+
+<string-array name="Resolucion">
+    <item><i>\"4 maio Resolución de premios\"</i></item>
+    
+    </string-array>
+   
+<string-array name="Resolucion2">
+    <item><i>\"Entrega de premios: no mes de maio nunha data por
+concretar coas persoas gañadoras\"</i></item>
+    
+    </string-array>
+<string-array name="descculturais">
+    <item>A Asociación Dusambá introduciravos na gastronomía mexicana a través da pintura da artista Frida Khalo."\n"Elaboraredes e probaredes receitas sinxelas que destacan pola súa orixinalidade, variedade de cores, sabores e texturas.</item>
+ <item>Os bolos, ou birlos, son xogos tradicionais de gran arraigo na nosa comunidade."\n"Da man de Etnoga, patrimonio cultural, aprenderedes a xogar a estas dúas modalidades, poñendo en valor o noso patrimonio lúdico ao tempo que nos divertimos."\n" Trae roupa e calzado cómodos.</item>
+ <item>Neste obradoiro impartido por Abrakadabra achegarémonos a un dos oficios tradicionais que hoxe corre risco de desaparecer."\n"Poderás aprender as técnicas básicas da cestaría elaborando obxectos prácticos e decorativos.</item>
+ <item>Un grupo e mozas serán as encargadas de achegarvos á gastronomía doutros países e culturas con unha ampla diversidade pratos."\n"Dende a cociña árabe ou asiática ata os postres americanos, africanos i europeos."\n" Actividade para maiores de 16 anos.</item>
+ <item>Actividade de iniciación á percusión na que coñeceremos os golpes básicos con este instrumento musical, profundizando nos ritmos tradicionais africanos e improvisando da man do monitorado da Asociación Galega de Percutas OMAR</item>
+ <item>Demostración musical que realizarán as persoas que participen nos obradoiros previos de Gaita e Tamboril."\n"Actividade de acceso libre a todas as persoas interesadas.</item>
+ <item>Comparte coa compañía "Ibuprofeno Teatro" os momentos previos a unha función."\n"Como é un día de representación: atrezzo, pase técnico, quecemento, rutinas, maquillaxe,..."\n"Participa nos exercicios previos, coñece a parte técnica e a súa montaxe, xeitos de crear un espectáculo,... Actividade para maiores de 16 anos que require inscrición previa.</item>
+ <item>Grande xogo a cargo da Asociación Dusambá que percorrerá lugares destacados da cidade, superando diversas probas e resolvendo enigmas."\n"Lembra traer roupa e calzado cómodos, ademais de teléfono móbil."\n"Esta actividade require  inscrición previa.</item>
+ <item>Este ano os planetas e os fenómenos astronómicos ofrecen un panorama único."\n"Comparte cos monitores da Agrupación Astronómica Rías Baixas o paso do cometa Pantarss, contempla as lúas de Xúpiter, os aneis de Saturno, ademais de gozar dos cráteres da nosa lúa."\n"Importante que leves moita roupa de abrigo e incluso unha esteira para botarte no chan e observar o ceo máis comodamente."\n"Se as condicións climatolóxicas non acompañan, trasladaremos a actividade de data."\n"Necesaria inscrición previa.</item>
+ <item>A Asociación Cultural Trépia propón este obradoiro para elaborar pezas propias cos abelorios do traxe tradicional galego e coas técnicas anteriores á industrialización."\n"O teu deseño poderá servir como complemento para o traxe tradicional ou para adaptar á moda actual.</item>
+ <item>Representación da obra \"Pequenos actos pseudorevolucionarios\" da compañía Ibuprofeno Teatro."\n"Posteriormente abrirase un espazo de debate no que as persoas asistentes á representación poderán preguntarlles dúbidas aos actores-creadores da obra, sobre a función, o proceso de creación, os temas abordados no espectáculo, a súa relación coa actualidade,..."\n"Actividade aberta a público maior de 16 anos."\n"Retirada de invitacións de balde no Teatro Principal o mesmo día da función, dende as 19h.</item>
+ <item>A Asociación Vaipolorío proponvos unha pequena ruta xunto ao río Gafos que rematará coa visita ao restaurado Muíño de Cabanas."\n"Coñeceredes as pezas que o compoñen, o seu funcionamento e degustaremos empanada de millo entre cantigas e contos."\n"Lembra traer roupa de abrigo, calzado para auga e unha lanterna."\n"Actividade con inscrición previa (menores de 18 acompañados).</item>
+ <item>Participa con Etnoga nunha ruta guiada pola cidade na que te achegarás a partes da cultura e historia da vila que seguramente descoñecías. O fío condutor será unha misteriosa personaxe que terás que descubrir."\n"Trae roupa e calzado cómodos."\n"Actividade con inscrición previa.</item>
+ <item>Torneo individual deste xogo de cartas intercambiables que propoñen un grupo de mozos, con premios ás 4 primeiras persoas clasificadas."\n"Actividade para maiores de 14 anos, que require inscrición previa."\n"Leva o teu propio mazo de cartas.</item>
+ <item>Un grupo de mozos e mozas da nosa cidade volve organizar unha nova edición destas xornadas que pretenden dar a coñecer unha parte da cultura de ocio xaponesa relacionada coas series de debuxos e cómics nipóns."\n"Á vez pretende ser un evento de referencia e punto de encontro da mocidade afeccionada."\n"Cosplay, videoxogos, origami, obradoiros, karaoke,... e moitas actividades máis.</item>
+</string-array>
+<string-array name="descformativas">
+    <item>Pensaches algunha vez en ter a túa propia horta na casa? Neste obradoiro  veremos da man de Greenpeace como reutilizar materiais para conseguilo, a plantación de verduras e hortalizas de tempada e os coidados que precisan."\n"Actividade para maiores de 14 anos.</item>
+<item>A Asociación Cultural Trépia introduciranos no baile tradicional galego tal e como é na zona de Pontevedra e arredores."\n"Aprenderemos os movementos básicos e bailaremos ao xeito das diferentes zonas.</item>
+<item>Bachata, merengue, salsa, zouk,..., todos os estilos de baile latino serán os que aprenderemos cun grupo de mozos e mozas bailaríns."\n"Se queres aprender os pasos básicos e figuras sinxelas propias destes bailes tes que vir a esta actividade."\n"Lembra traer roupa e calzado cómodos.</item>
+<item>Prepara con nós unha coreografía de baile individual, que posteriormente se representará nun espazo público da cidade e por sorpresa.</item>
+<item>Actividade na que se fará un achegamento inicial a este instrumento da man dun músico profesional."\n"Exercicios básicos, de coordinación, de percepción rítmica e moita diversión."\n"Lembra traer as túas baquetas.</item>
+<item>Controla e modula sons coa túa voz, imitando animais, xente, obxectos,... ata simular instrumentos musicais."\n"O Beat box é unha forma de percusión vocal baseada na habilidade para producir beats, ritmos e sons musicais empregando a boca, beizos e voz. Actualmente está ligado á cultural Hip Hop."\n"Actividade impartida pola Asociación Cultural Black Box Project</item>
+<item>Obradoiro de iniciación onde, en grupo, combinaredes diferentes instrumentos de percusión."\n"Trae o teu instrumento ou baquetas se tes.</item>
+<item>Canto individual e en grupo, a voz e a súa cualidade, exercicios de relaxación e quecemento, interpretar arranxos,... Se che gusta cantar esta actividade é especial para ti."\n"Actividade para maiores de 14 anos.</item>
+<item>Mediante ferramentas de software libre aprenderedes como crear un blog de fotografía no que aparezan as túas fotos, comentarios, textos, widgets, tags, enlaces,..."\n"Podes consultar o blog do monitor en <a href="http://fotosconletra.blogspot.com.es/">http://fotosconletra.blogspot.com.es/</a>."\n"Actividade para maiores de 14 anos e con inscrición previa.</item>
+<item>Descobre esta actividade e as posibilidades de expresión do teu corpo a través da danza."\n"Coa monitora elaboraredes pequenas coreografías."\n"Lembra traer roupa e calzado cómodos.</item>
+<item>Aprende as técnicas básicas de debuxo artístico da man de bos debuxantes."\n"Actividade para maiores de 16 anos e con inscrición previa.</item>
+<item>Con Greenpeace aprenderedes a facer xabón empregando aceites usados de cociña, un xeito máis de contribuír ao uso responsábel dos recursos."\n"Veredes como reducir o consumo de auga e enerxía no ámbito doméstico."\n"Actividade para maiores de 14 anos.</item>
+<item>Coa Asociación N´allada aprenderedes a fabricar pequenos ex-libris para personalizar os nosos libros."\n"Veremos a técnica de gravado sobre linóleo e deseñarás o teu propio cuño co que marcar os libros da túa biblioteca.</item>
+<item>Sairedes a fotografar pola cidade en condicións de baixa iluminación."\n"Lembra traer unha cámara dixital con opción manual de "tempo de exposición", e se dispós de trípode e disparador, tamén."\n"Actividade para maiores de 14 anos e con inscrición previa.</item>
+<item>Nesta actividade coñecerás mellor a túa cámara, as regras de composición e como crear o teu propio álbum dixital."\n"Descobre a Lomografía, o seu atractivo artístico e as súas sorprendentes posibilidades."\n"Coñece á monitora que imparte este obradoiro na súa web<a href="http://www.nolicafoto.es/"> http://www.nolicafoto.es/</a>"\n"Actividade para maiores de 14 anos e con inscrición previa.</item>
+<item>Un salto atrás no tempo para iniciarvos no revelado e copiado de fotografías con película sensible."\n"Dende o funcionamento das cámaras analóxicas ata o revelado e posterior impresión química."\n"Coñece ao monitor que imparte este obradoiro en <a href="http://www.flickr.com/photos/patapalo2007/">http://www.flickr.com/photos/patapalo2007/</a>"\n"Actividade para maiores de 14 anos e con inscrición previa.</item>
+<item>Con Fogar12Fogar aprenderedes  a facer galletas que ademais de ricas destaquen pola súa presentación"\n"Aprenderás técnicas de iniciación no mundo da repostería artística."\n"Actividade para maiores de 16 anos.</item>
+<item>Aprende con este colectivo de mozos e mozas a elaborar prendas e accesorios de calceta e ganchillo."\n"Coñecerás os puntos básicos que che permitirán facer o gorro, buff ou funda que che propoñemos ou ben outra prenda que ti decidas.</item>
+<item>As túas primeiras notas con este instrumento da música tradicional galega."\n"Co monitor, un músico profesional, aprenderás as destrezas básicas que che permitirán aprender sinxelas melodías."\n"Non precisas traer material algún.</item>
+<item>Se estás dando os teus primeiros pasos coa guitarra, esta é a túa actividade."\n"O monitor, músico profesional, axudarache na práctica con este instrumento. O teu papel en diferentes combos, erros a corrixir e ferramentas que che axuden a evolucionar na túa maneira de tocar."\n"Lembra traer a túa propia guitarra."\n"Actividade para maiores de 14 anos</item>
+<item>Elabora as túas propias marmeladas e confituras caseiras co monitorado de Ventos, estudos ambientais.</item>
+<item>Aprende coa Asociación Lareira Global  o básico para poder facer a túa propia publicación de banda deseñada. Que partes debe conter a historia, como desenvolvela, as técnicas para facer as ilustracións que acompañen ao texto,..."\n"Esta actividade require inscrición previa.</item>
+<item>A partires de materiais reciclados, seredes quen de elaborar paus de choiva que reproducen o seu son ou o da auga."\n"Actividade realizada por Greenpeace e para maiores de 14 anos.</item>
+<item>A actividade abordará os ritmos e destrezas básicas deste instrumento da música tradicional galega."\n"Co monitor, un músico profesional, aprenderedes a colocar as mans, os golpes, o redobre, interiorización de ritmos,...</item>
+<item>Iníciate con nós nesta técnica pictórica básica, propia do deseño ou da ilustración, aplicándoa na decoración de prendas de roupa (podes traer as que queiras modificar), cartóns, madeiras,...</item>
+<item>Vive en primeira persoa o mundo da arte e o deseño, a través da elaboración activa da túa propia obra de arte."\n"Non é unha actividade que requira elevada concentración ou complicadas técnicas, polo que se crea un clima distendido de compañeirismo, agradable e entretido."\n"Este tipo de técnica permite que calquera persoa poida participar sen necesidade de ter coñecementos artísticos previos.</item>
+<item>Empregando ferramentas de software libre comezaredes a editar, retocar e organizar fotografías."\n"Aprenderedes a engadir textos, filtros vintage, modificar o tamaño, temperatura, saturación, nitidez,... das nosas fotos."\n"Actividade para maiores de 14 anos e con inscrición previa.</item>
+<item>O grupo Nigerstella proponche este divertido obradoiro de iniciación ao rock en grupo."\n"Trae o teu instrumento musical, cables ou baquetas e toca co resto de participantes.</item>
+<item>Sobre os morcegos hai moitas lendas e crenzas sen fundamento."\n"Vaipolorío e a Asociación Drosera Morcegos de Galicia organizan esta actividade conxuntamente para que poidamos escoitar aos morcegos con aparatos especiais de ultrasons e coñecelos de preto observando algún."\n"Lembra traer roupa de abrigo, calzado para auga e unha lanterna."\n"Actividade con inscrición previa (menores de 18 acompañados).</item></string-array>
+<string-array name="descludicas">
+<item>Un grupo de mozas ensinaranvos a elaborar unha peza de xoiería empregando pequenas pezas destes abelorios especiais."\n"Aprende as distintas técnicas e puntos para elaborar aneis e pendentes para ti ou para regalar.</item>
+<item>Aprende con Abrakadabra a facer por utensilios da vida cotiá empregando este material, de xeito que sexan pezas totalmente orixinais e únicas."\n"Un moedeiro, unha funda de libreta, chaveiros, pulseiras,..."\n"Actividade para maiores de 16 anos.</item>
+<item>Co colectivo Precicla aprenderás a realizar tocados e prendas moi orixinais, empregando restos de teas como os que  podemos atopar na casa; tamén lámpadas únicas partindo de materiais de refugallo e de diversas técnicas de deseño.</item>
+<item>Poderás facer as túas propias axendas ou libretas reutilizando cartóns, envases, trapos vellos, teas, papel reciclado,..."\n"O resultado serán deseños exclusivos que ademais aprenderás a decorar mediante as técnicas de gravado e estampado que che ensinarán en Ventos, estudos ambientais.</item>
+<item>As posibilidades que proporciona o fimo para decorar obxectos ou crealos son infinitas."\n"Descúbreas coa nosa monitora para decorar caixas ou elaborando xoias e broches.</item>
+<item>O furoshiki é unha tela cuadrangular tradicional de Xapón, que é empregada para envolver e transportar todo tipo de obxectos."\n"Neste obradoiro investigaremos na aprendizaxe das súas infinitas posibilidades, centrándonos na elaboración de bolsos."\n"Actividade para maiores de 16 anos impartida por Abrakadabra.</item>
+<item>Da man da Asociación Cultural Trépia, aprende a elaborar pendentes, colares e outros abelorios empregando o ganchillo como técnica básica para facelo.</item>
+<item>Moldea imáns de neveira e títeres de dedo empregando esta arxila especial. Doada de manipular, non mancha, non precisa forno para secar e pode adherirse a outros materiais sen pegamento."\n"Actividade impartida por Vis Global SL</item>
+<item>A monitora ensinaravos a crear pequenos obxectos únicos para gardar moedas, xoias, chaves,..."\n"Organizar os teus aneis, pins,...; ou pequenos recipientes, broches, colgantes,... empregando dende os habituais materiais de manualidades ata as serpentinas das festas.</item>
+<item>Recorrendo a materiais comúns do día a día, crearedes pequenos accesorios como carteiras, porta tarxetas, broches, pulseiras,... útiles e divertidos</item>
+<item>Recorrendo a materiais comúns do día a día, crearedes pequenos accesorios como carteiras, porta tarxetas, broches, pulseiras,... útiles e divertidos</item>
+<item>Hai pequenos obxectos como as moedas, cartas das barallas, gomiñas,... que agochan segredos capaces de ilusionar a quen sabe mirar neles."\n"Un grupo de mozos magos pretenden que coñezas o mundo da maxia.</item>
+<item>Crea un simpático boneco empregando simples calcetíns de cores."\n"Un grupo de mozas ensinaravos a facer macacos, vermes, porquiños,... ou o que a vosa imaxinación decida.</item>
+<item>Unha vez máis con Ventos, estudos ambientais, aprenderedes a elaborar perfumes seguindo receitas clásicas a base de esencias e elementos vexetais."\n"Tamén a obter auga floral mediante destilación con alambique, ao tempo que descubriredes a orixe e clasificación dos perfumes, os seus efectos ambientais e sobre a saúde.</item>
+<item>ReciclArte é un obradoiro no que poderás expresar a túa sensibilidade artística no marco do respecto ao ambiente, empregando materiais que normalmente irían ao lixo."\n"Transforma botellas de plástico, pinzas, latas de refresco,... en obxectos prácticos ou adornos, coa axuda do monitor que vos orientará nesta tarefa artística e creativa.</item>
+<item>Os materiais de refugallo poden ter utilidade aínda que non o pareza a simple vista. Un colectivo de mozas pretende que empreguedes materiais de refugallo para construír colgantes móbiles de vento, bonecos de trapo e ata o voso propio autorretrato.</item>
+<item>Dálle un aspecto diferente a perchas  ou crea bonecos reutilizando materiais de refugallo grazas ás orientacións da nosa monitora que traerá exemplos prácticos e diferentes elementos para que idees a túa propia obra de arte</item>
+<item>Dálle un aspecto diferente a caixas reutilizando materiais de refugallo grazas ás orientacións da nosa monitora que traerá exemplos prácticos e diferentes elementos para que idees a túa propia obra de arte</item>
+<item>Reutilizaredes residuos sólidos urbanos para a súa posterior integración no contorno. A monitora tratará de levar a cabo os vosos proxectos artísticos de recuperación de materiais, dentro do marco da arte contemporánea.</item>
+<item>Unha experta malabarista axudaravos a fabricar as vosas propias cariocas, diferentes a todas as demais, e a aprender a manexalas, a movelas e facer trucos.</item>
+<item>Os wargames son xogos de taboleiro representado por miniaturas, no que os xogadores dun bando tratan de derrotar ao bando contrario."\n"Entre os moitos que existen, destaca o INFINITY, xogo galego que está acadando aceptación a nivel internacional."\n"Monitores de Esbozos Asociación Xuvenil e Cultural serán os encargados de orientarvos nesta aventura.</item>
+<item>Elabora pezas de xoiería con papel a través de técnicas \"Quilling\"."\n"Pendentes, colgantes, aneis, broches,... Dende os modelos máis básicos ata... onde ti decidas.</item>
+<item>Confecciona colgantes, broches e pendentes empregando pequenas rodelas de ramas autóctonas e flores secas."\n"Tamén aproveitaredes revistas vellas para facer con elas colares e pulseiras a partir do seu papel estucado.</item></string-array>
+<string-array name="descespeciais">
+<item>Terceira edición deste certame de Noites Abertas e coordinado por Proceso Psicología. Consulta as bases na nosa web ou na pestana \"DESCARGA-BASES\"."\n"O prazo de entrega remata o 26 de abril. Premios en metálico."\n"Actividade para maiores de 18 anos.</item>
+<item>Aprende as nocións básicas da maquillaxe e o coidado da pel."\n"Actividade para maiores de 16 anos.</item>
+<item>LLullu Teatro ofrece este espectáculo clown que percorrerá as prazas e rúas da nosa cidade, os centros educativos, campus universitario, ...."\n"Para interaccionar coa xente e informar da chegada dunha nova edición de Noites Abertas dun xeito divertido, desinhibido e sorprendente.</item>
+<item>Demostración en espazos da cidade destas modalidades propias da cultura Hip Hop a cargo da Asociación Cultural Black Box Project</item>
+<item>Demostración levada a cabo por participantes das actividades de flashmob e baile latino, co apoio do seu monitor e monitora.</item>
+<item>Mediante receitas sinxelas nas que se misturan elementos naturais, poderás elaborar os teus propios produtos de limpeza e droguería, como abrillantadores de mobles, repelentes de insectos, ... ."\n"Actividade impartida por Ventos, estudos ambientais.</item>
+<item>Coñece o mellor xeito de empregar a maquillaxe neses momentos especiais dende o punto de vista persoal, profesional ou social, sen deixar de darlle o teu propio estilo."\n"Actividade para maiores de 16 anos.</item>
+<item>Practica diversas secuencias da masaxe tradicional tailandesa, baseadas en mobilizacións das articulacións, estiramentos e presións musculares."\n"Lembra traer roupa cómoda e a túa esteira."\n"Actividade para maiores de 16 anos e impartida por monitorado de Clínica del masaje.</item>
+<item>Mediante técnicas de masaxe facial e corporal, dinámicas de relaxación e visualización, esta actividade pretende axudar a eliminar tensións, favorecer o pensamento positivo, tomar conciencia do noso corpo,..."\n"Lembra traer roupa cómoda e unha esteira."\n"Actividade para maiores de 16 anos.</item>
+<item>Risotadas imparte esta actividade de achegamento ao mundo da risa, do sentido do humor, o divertimento dun xeito práctico e vivencial a través do xogo."\n"Actividade para maiores de 18 anos.</item>
+<item>Risotadas imparte esta actividade de achegamento ao mundo da risa, do sentido do humor, o divertimento dun xeito práctico e vivencial a través do xogo."\n"Actividade para maiores de 18 anos.</item>
+<item>Obradoiro de sexualidade impartido pola Asociación CCANVIHAR."\n"Poderemos aclarar as nosas dúbidas, ver a importancia da prevención e desmitificar falsas crenzas."\n"Actividade para maiores de 14 anos.</item>
+<item>Noites Abertas sortea bonos de 30 euros canxeables por libros entre os socios/as do programa."\n"Para participar só tes que facer o noso carné gratuíto nas propias actividades.</item>
+<item>Interésanos a túa visión de Noites Abertas."\n"Achégate a esta actividade do Cine Club e participa na elaboración dun vídeo sobre o  programa."\n"Nós poñemos as cámaras, trípodes, iluminación,... ti trae a túa imaxinación.</item>
+    
+</string-array>
+<string-array name="avisos"><item>Inscrición previa "\n"En caso de choiva, a organización cambiará a data da actividade."\n"Consúltaa.</item>
+<item>Leva roupa cómoda e calzado deportivo.</item>
+<item>Leva unha esteira ademais de roupa cómoda.</item>
+<item>Leva patíns e protectores.</item>
+<item>Leva o teu longskate (se o tes),"\n"protectores e casco.</item>
+<item>Leva cámara fotográfica dixital ou móbil con cámara"\n"con opción manual do tempo de exposición."\n"Se se dispón de trípode e disparador, convén traelo. Inscrición
+previa.</item>
+<item>Leva instrumento, cables e/ou baquetas.</item>
+<item>Inscrición previa."\n"Roupa de abrigo, lanterna e calzado para auga."\n"En caso de choiva, a organización cambiará a data da actividade."\n"Consúltaa.</item></string-array>
+    
+<string-array name="lugaract">
+    <item>PAVILLÓN MULTIUSOS</item>
+    <item>CASA AZUL</item>
+    <item>PAVILLÓN MUNICIPAL DOS DEPORTES</item>
+    <item>FROEBEL</item>
+    <item>SAÍDA DIANTE  DO PAVILLÓN MUNICIPAL</item>
+    <item>CAMPOS DE HERBA SINTÉTICA</item>
+    <item>PRAZA DE SANTA MARÍA</item>
+    <item>CEIP MANUEL VIDAL PORTELA</item>
+    <item>ALAMEDA</item>
+    <item>TEATRO PRINCIPAL</item>
+    <item>LOCAL DE MÚSICA</item>
+    <item>ESTACIÓN DE AUTOBUSES</item>
+    <item>SAÍDA DIANTE DA ESTACIÓN DE AUTOBUSES</item>
+    <item>PRAZA DE OURENSE</item>
+    <item>PRAZA DA PEREGRINA</item>
+    <item> </item>
+</string-array>    
+<string-array name="lugaract2">
+   <item>PRAZA DE CURROS ENRIQUEZ</item>
+   <item>PRAZA DA PEREGRINA</item>
+     <item>ALAMEDA</item>
+      <item>FROEBEL</item>
+     
+       <item>PRAZA DE OURENSE</item>
+         <item>CASA AZUL</item>
+          <item>PRAZA DE SANTA MARÍA</item>
+          <item>TEATRO PRINCIPAL</item>
+           <item>PAVILLÓN MUNICIPAL DOS DEPORTES</item>
+           <item>CEIP MANUEL VIDAL PORTELA</item>
+    
+    <item>PAVILLÓN MULTIUSOS</item>
+    <item>CAMPOS DE HERBA SINTÉTICA</item>
+     <item>LOCAL DE MÚSICA</item>
+   
+      <item>ESTACIÓN DE AUTOBUSES</item>
+   
+   
+  
+
+</string-array>    
+    
+</resources>    

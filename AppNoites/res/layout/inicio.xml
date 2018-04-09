@@ -1,0 +1,251 @@
+<ScrollView
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="match_parent"
+android:layout_height="wrap_content"
+android:orientation="vertical"
+ android:background="@drawable/hoja2">
+	<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:fuentes="http://schemas.android.com/apk/res/com.aranzazu.appnoites"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+		<com.aranzazu.appnoites.CustomTextView
+	    style="@style/texto_inicio1"
+	    android:text="@string/inicio1"
+    	fuentes:fuente="Myriad"
+    	/>
+		<com.aranzazu.appnoites.CustomTextView
+		style="@style/texto_subtitulo"
+        android:text="@string/inicio2"
+        fuentes:fuente="Myriad"/>
+		<com.aranzazu.appnoites.CustomTextView
+		style="@style/texto_subtitulo2"
+        android:text="@string/inicio2b"
+        fuentes:fuente="Myriad"/>
+		<com.aranzazu.appnoites.CustomTextView
+		style="@style/texto_subtitulo"
+        android:text="@string/inicio3"
+        fuentes:fuente="Myriad"/>
+		<com.aranzazu.appnoites.CustomTextView
+		style="@style/texto_subtitulo2"
+        android:text="@string/inicio3b"
+        fuentes:fuente="Myriad"/>
+		<com.aranzazu.appnoites.CustomTextView
+		style="@style/texto_subtitulo"
+    	android:text="@string/inicio4"
+    	fuentes:fuente="Myriad"/>
+		<com.aranzazu.appnoites.CustomTextView
+		style="@style/texto_subtitulo2"
+        android:text="@string/inicio4b"
+        android:textColorLink="#FF0066"
+        android:clickable="true"
+        android:onClick="inicio1"
+        fuentes:fuente="Myriad"/>
+		<com.aranzazu.appnoites.CustomTextView
+		    style="@style/texto_subtitulo"
+        android:text="@string/inicio5"
+        fuentes:fuente="Myriad"/>
+		<com.aranzazu.appnoites.CustomTextView
+		style="@style/texto_subtitulo2"
+        android:text="@string/inicio5b"
+        fuentes:fuente="Myriad"/>
+		<com.aranzazu.appnoites.CustomTextView
+		style="@style/texto_subtitulo"
+        android:text="@string/inicio6"
+        fuentes:fuente="Myriad"/>
+		<com.aranzazu.appnoites.CustomTextView
+		style="@style/texto_subtitulo2"
+        android:text="@string/inicio6b"
+        fuentes:fuente="Myriad"/>
+		<com.aranzazu.appnoites.CustomTextView
+		style="@style/texto_subtitulo"
+        android:text="@string/inicio7"
+        fuentes:fuente="Myriad"/>
+		<com.aranzazu.appnoites.CustomTextView
+		 style="@style/texto_subtitulo"
+        android:text="@string/inicio8"
+        fuentes:fuente="Myriad"/>
+		<com.aranzazu.appnoites.CustomTextView
+		style="@style/texto_subtitulo"
+        android:text="@string/inicio9"
+        fuentes:fuente="Myriad"/>
+		<com.aranzazu.appnoites.CustomTextView
+		style="@style/texto_subtitulo"
+        android:text="@string/inicio10"
+        fuentes:fuente="Myriad"/>
+		<com.aranzazu.appnoites.CustomTextView
+		style="@style/texto_subtitulo2"
+        android:text="@string/inicio10b"
+        fuentes:fuente="Myriad"/>
+		<com.aranzazu.appnoites.CustomTextView
+		style="@style/texto_subtitulo"
+        android:id="@+id/inicio11"
+        android:text="@string/inicio11"
+        fuentes:fuente="Myriad"/>
+		<com.aranzazu.appnoites.CustomTextView
+		style="@style/texto_subtitulo2"
+        android:text="@string/inicio11b"
+         android:textColorLink="#FF0066"
+        fuentes:fuente="Myriad"/>
+
+		<LinearLayout
+		    xmlns:android="http://schemas.android.com/apk/res/android"
+		    xmlns:fuentes="http://schemas.android.com/apk/res/com.aranzazu.appnoites"
+		    android:layout_width="match_parent"
+		    android:layout_height="wrap_content"
+		    android:gravity="center"
+		    android:orientation="horizontal" >
+
+     <Button
+         android:id="@+id/buttonin"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_alignParentLeft="true"
+         android:layout_centerVertical="true"
+         android:layout_marginLeft="10dp"
+         android:background="@drawable/down1"
+         android:onClick="descargabases" />
+
+    <com.aranzazu.appnoites.CustomTextView
+           android:id="@+id/textView2"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:layout_centerVertical="true"
+           android:layout_marginRight="30dp"
+           android:layout_toRightOf="@id/buttonin"
+           android:layout_weight="0"
+           android:gravity="center"
+           android:text="@string/erotismo1"
+           android:textColor="#FF0066"
+           android:textSize="14sp"
+           android:textStyle="bold"
+           fuentes:fuente="Myriad" />
+		</LinearLayout>
+		<com.aranzazu.appnoites.CustomTextView       	 style="@style/texto_inicio1"
+       	 android:text="AVISOS IMPORTANTES"
+		 android:gravity="center"/>
+  	    	   
+       	    	
+	 <TableLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="15dp"
+        android:layout_gravity="bottom"
+        android:stretchColumns="*" >
+		<TableRow  >
+       	    <ImageView
+       	       	android:layout_width="wrap_content"
+       	       	android:layout_height="wrap_content"
+       	       	android:layout_marginTop="5dp"
+       	       	android:src="@drawable/cero" />
+       	   	<com.aranzazu.appnoites.CustomTextView
+       	    	style="@style/texto_subtitulo3"
+       	    	android:layout_marginTop="5dp"
+       	    	android:text="@string/aviso0"
+       	    	fuentes:fuente="Myriad"/>
+		</TableRow>
+        <TableRow >
+           <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/uno"></ImageView>
+       	   <com.aranzazu.appnoites.CustomTextView
+       	    	style="@style/texto_subtitulo3"
+				android:text="@string/aviso1"
+				fuentes:fuente="Myriad"/>
+       	</TableRow>
+        <TableRow >
+       	   <ImageView
+       	        android:layout_width="wrap_content"
+       	        android:layout_height="wrap_content"
+       	        android:src="@drawable/dos"></ImageView>
+       	    <com.aranzazu.appnoites.CustomTextView
+       	    	style="@style/texto_subtitulo3"
+				android:text="@string/aviso2"
+				fuentes:fuente="Myriad"/>
+       	 </TableRow>
+       	 <TableRow>
+       	    <ImageView
+       	        android:layout_width="wrap_content"
+       	        android:layout_height="wrap_content"
+       	        android:src="@drawable/tres"></ImageView>
+       	  <com.aranzazu.appnoites.CustomTextView
+       	    	style="@style/texto_subtitulo3"
+				android:text="@string/aviso3"
+				fuentes:fuente="Myriad"/>
+       	  </TableRow>  	    
+       	  <TableRow >
+       	     <ImageView
+       	        android:layout_width="wrap_content"
+       	        android:layout_height="wrap_content"
+       	        android:src="@drawable/cuatro"
+       	        ></ImageView>
+       	    		<com.aranzazu.appnoites.CustomTextView
+       	    style="@style/texto_subtitulo3"
+				android:text="@string/aviso4"
+				 fuentes:fuente="Myriad"
+				 />
+       	    	    
+       	    
+       	    	  </TableRow>
+         <TableRow >
+       	        <ImageView
+       	            android:layout_width="wrap_content"
+       	            android:layout_height="wrap_content"
+       	            android:src="@drawable/cinco"
+       	        ></ImageView>
+       	    		<com.aranzazu.appnoites.CustomTextView
+       	    	style="@style/texto_subtitulo3"
+				android:text="@string/aviso5"
+				 fuentes:fuente="Myriad"
+				 />
+       	    	    
+       	    	
+       	    </TableRow>
+       	    <TableRow >
+       	       <ImageView
+       	            android:layout_width="wrap_content"
+       	            android:layout_height="wrap_content"
+       	            android:src="@drawable/seis"
+       	        ></ImageView>
+       	    	<com.aranzazu.appnoites.CustomTextView
+       	    	style="@style/texto_subtitulo3"
+				android:text="@string/aviso6"
+				 fuentes:fuente="Myriad"
+				/>
+       	    	    
+       	    	
+       	    	 </TableRow>
+       	    	    <TableRow >
+       	    	 <ImageView
+       	            android:layout_width="wrap_content"
+       	            android:layout_height="wrap_content"
+       	            android:src="@drawable/siete"
+       	        ></ImageView>
+       	    		<com.aranzazu.appnoites.CustomTextView
+       	    	style="@style/texto_subtitulo3"
+				android:text="@string/aviso7"
+				 fuentes:fuente="Myriad"
+				  />
+       	    	    
+       	   
+       	    </TableRow>
+          	    
+        
+    </TableLayout>	
+    <ImageView
+         android:layout_width="wrap_content"
+       	            android:layout_height="wrap_content"
+       	            android:src="@drawable/sharena"
+       	            android:clickable="true"
+       	            android:layout_margin="20dip"
+       	            android:onClick="compartir"/>
+	</LinearLayout>
+</ScrollView>
+
+    
+    
+
+
+

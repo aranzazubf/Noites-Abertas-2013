@@ -1,0 +1,22 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" 
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    xmlns:fuentes="http://schemas.android.com/apk/res/com.aranzazu.appnoites">>
+	<LinearLayout 
+    	android:layout_width="wrap_content"
+    	android:layout_height="wrap_content"
+    	android:paddingLeft="?android:attr/expandableListPreferredItemPaddingLeft"
+   		android:mode="oneLine"
+ 		android:layout_marginBottom="25dip"
+ 		android:cacheColorHint="@android:color/transparent">
+    	<com.aranzazu.appnoites.CustomTextView
+    	   	android:id="@+id/text_actividades"
+    	   	style="@style/actividades_grupo"
+           	android:layout_marginTop="25dip"
+          	android:layout_marginBottom="-2dip"
+          	android:gravity="center_vertical"
+          	fuentes:fuente="Myriad"
+         	/>
+    	
+	</LinearLayout>
+</LinearLayout>

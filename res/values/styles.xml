@@ -1,0 +1,133 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:fuentes="http://schemas.android.com/apk/res/com.example.appnoites">
+<style name="actividades_grupo"> 
+     
+   
+     <item name="android:layout_width">match_parent</item>
+     <item name="android:layout_height">wrap_content</item>
+     <item name="android:textColor">#392348</item>
+     <item name="android:textSize">18sp</item> 
+     <item name="android:textStyle">bold</item>
+</style>
+<style name="Customtheme"  parent="android:Theme">
+    <item name="android:windowTitleBackgroundStyle">@style/CustomthemeTitleBackground</item>
+	<item name="android:windowTitleSize">50dip</item>
+</style>     
+<style name="CustomthemeTitleBackground">
+    <item name="android:layout_height">match_parent</item>
+    <item name="android:background">@drawable/cabecera1</item>
+    
+</style>
+<style name="button">
+    <item name="android:layout_width">wrap_content </item>
+    <item name="android:layout_height">wrap_content</item>
+    <item name="android:layout_weight" >1</item>
+    <item name="android:padding">10dp</item>
+    
+</style>
+<style name="elemento_horario1">
+    <item name="android:layout_column">1</item>
+    <item name="android:textSize">12sp</item>
+    <item name="android:padding">2dp</item>
+    <item name="android:textColor">#EFB4CA</item>
+    <item name= "android:gravity">left</item>
+</style>   
+<style name="elemento_horario2">
+    <item name="android:textSize">12sp</item>
+    <item name="android:padding">2dp</item>
+    <item name="android:textColor">#E52676</item>
+    <item name= "android:gravity">left</item>
+</style>   
+<style name="texto_inicio1">
+    <item name="android:layout_marginTop">20dip</item>
+    <item name="android:textColor">#392348</item>    
+    <item name="android:textSize">18sp</item>
+    <item name="android:textStyle">bold</item>
+    <item name="android:padding">5dip</item>
+    <item name="android:layout_width">match_parent</item>
+    <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="texto_titulo">
+    <item name="android:layout_marginTop">20dip</item>
+    <item name="android:textColor">#FF0066</item>    
+    <item name="android:textSize">18sp</item>
+    <item name="android:textStyle">bold</item>
+    <item name="android:padding">5dip</item>
+    <item name="android:layout_width">match_parent</item>
+    <item name="android:layout_height">wrap_content</item>
+    </style>   
+     <style name="texto_subtitulo">
+    <item name="fuente">Myriad</item>
+    <item name="android:textColor">#FF0066</item>    
+    <item name="android:textSize">14sp</item>
+    <item name="android:padding">5dip</item>
+    <item name="android:layout_width">match_parent</item>
+    <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="texto_subtitulo2">
+    <item name="fuente">Myriad</item>
+    <item name="android:textColor">@color/Black</item>    
+    <item name="android:textSize">14sp</item>
+    <item name="android:padding">5dip</item>
+    <item name="android:layout_width">match_parent</item>
+    <item name="android:layout_height">wrap_content</item>
+    </style>
+        <style name="texto_subtitulo3">
+    <item name="fuente">Myriad</item>
+    <item name="android:textColor">@color/Black</item>    
+    <item name="android:textSize">12sp</item>
+    <item name="android:padding">5dip</item>
+    <item name="android:layout_width">wrap_content</item>
+    <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="texto_subtitulo4">
+    <item name="fuente">Myriad</item>
+    <item name="android:textColor">#392348</item>    
+    <item name="android:textSize">10sp</item>
+    <item name="android:padding">5dip</item>
+    <item name="android:layout_width">wrap_content</item>
+    <item name="android:layout_height">wrap_content</item>
+    </style>
+     <style name="texto_subtitulo5">
+    <item name="fuente">Myriad</item>
+    <item name="android:textColor">#392348</item>    
+    <item name="android:textSize">10sp</item>
+    <item name="android:padding">5dip</item>
+    <item name="android:layout_width">wrap_content</item>
+    <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="texto_normal">
+          
+    <item name="android:textColor">#AAAAAA</item>    
+    <item name="android:textSize">12sp</item>
+    <item name="android:padding">5dip</item>
+    <item name="android:layout_width">match_parent</item>
+    <item name="android:layout_height">wrap_content</item>
+</style>
+    <style name="texto_subtitulo_col">
+    <item name="android:layout_marginTop">14dip</item>
+    <item name="android:textColor">#FF0066</item>    
+    <item name="android:textSize">18sp</item>
+    <item name="android:textStyle">bold</item>
+    <item name="android:padding">5dip</item>
+    <item name="android:layout_width">match_parent</item>
+    <item name="android:layout_height">wrap_content</item>
+    </style>   
+    <style name="texto_titulo_col">
+        
+    <item name="android:layout_marginTop">20dip</item>
+    <item name="android:textColor">#808080</item>    
+    <item name="android:textSize">14sp</item>
+    <item name="android:textStyle">bold</item>
+    <item name="android:padding">5dip</item>
+    <item name="android:layout_width">match_parent</item>
+    <item name="android:layout_height">wrap_content</item>
+    </style>
+     <style name="texto_normal_col">
+    <item name="android:textColor">#000000</item>    
+    <item name="android:textSize">12sp</item>
+    <item name="android:padding">5dip</item>
+    <item name="android:layout_width">match_parent</item>
+    <item name="android:layout_height">wrap_content</item>
+</style>      
+</resources>

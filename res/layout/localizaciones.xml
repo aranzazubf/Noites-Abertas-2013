@@ -1,0 +1,199 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center_horizontal"
+    android:background="@drawable/hoja2"
+    android:clickable="true"
+    android:orientation="vertical" >
+
+	 <LinearLayout
+	     xmlns:fuentes="http://schemas.android.com/apk/res/com.aranzazu.appnoites"
+	     android:layout_width="match_parent"
+	     android:layout_height="match_parent"
+	     android:layout_gravity="center_horizontal"
+	     android:orientation="vertical" >
+
+	     <LinearLayout
+	         xmlns:fuentes="http://schemas.android.com/apk/res/com.aranzazu.appnoites"
+	         android:layout_width="match_parent"
+	         android:layout_height="match_parent"
+	         android:orientation="horizontal" >
+
+	       <com.aranzazu.appnoites.CustomTextView
+	             style="@style/texto_titulo"
+	             android:layout_gravity="center"
+	             android:layout_marginBottom="20dp"
+	             android:layout_marginLeft="20dp"
+	             android:layout_marginTop="30dp"
+	             android:clickable="true"
+	             android:gravity="center|left"
+	             android:text="@string/localizaciones1"
+	             android:textColor="@color/Black"
+	             fuentes:fuente="Myriad" />
+	     </LinearLayout>
+
+	     <RelativeLayout
+	         xmlns:fuentes="http://schemas.android.com/apk/res/com.aranzazu.appnoites"
+	         android:layout_width="match_parent"
+	         android:layout_height="wrap_content"
+	         android:orientation="vertical" >
+
+	     <com.aranzazu.appnoites.CustomTextView
+	             android:id="@+id/loc5"
+	             style="@style/texto_subtitulo4"
+	             android:layout_below="@+id/loc3"
+	             android:clickable="true"
+	             android:text="@string/localizaciones6"
+	             fuentes:fuente="Myriad" />
+
+	      <com.aranzazu.appnoites.CustomTextView
+	             android:id="@+id/loc2"
+	             style="@style/texto_subtitulo4"
+	             android:layout_width="wrap_content"
+	             android:text="@string/localizaciones3"
+	             fuentes:fuente="Myriad" />
+
+	         <com.aranzazu.appnoites.CustomTextView
+	             android:id="@+id/loc7"
+	             style="@style/texto_subtitulo4"
+	             android:layout_alignParentLeft="true"
+	             android:layout_below="@+id/loc5"
+	             android:clickable="true"
+	             android:text="@string/localizaciones8"
+	             fuentes:fuente="Myriad" />
+
+	         <com.aranzazu.appnoites.CustomTextView
+	             android:id="@+id/loc3"
+	             style="@style/texto_subtitulo4"
+	             android:layout_alignParentLeft="true"
+	             android:layout_below="@+id/loc6"
+	             android:clickable="true"
+	             android:text="@string/localizaciones4"
+	             fuentes:fuente="Myriad" />
+
+	         <com.aranzazu.appnoites.CustomTextView
+	             android:id="@+id/loc14"
+	             style="@style/texto_subtitulo4"
+	             android:layout_alignParentLeft="true"
+	             android:layout_below="@+id/loc7"
+	             android:clickable="true"
+	             android:text="@string/localizaciones15"
+	             fuentes:fuente="Myriad" />
+
+	         <com.aranzazu.appnoites.CustomTextView
+	             android:id="@+id/loc1"
+	             style="@style/texto_subtitulo4"
+	             android:layout_alignParentLeft="true"
+	             android:layout_below="@+id/loc14"
+	             android:text="@string/localizaciones2"
+	             fuentes:fuente="Myriad" />
+
+	         <com.aranzazu.appnoites.CustomTextView
+	             android:id="@+id/loc8"
+	             style="@style/texto_subtitulo4"
+	             android:layout_alignParentLeft="true"
+	             android:layout_below="@+id/loc1"
+	             android:clickable="true"
+	             android:text="@string/localizaciones9"
+	             fuentes:fuente="Myriad" />
+
+	         <com.aranzazu.appnoites.CustomTextView
+	             android:id="@+id/loc9"
+	             style="@style/texto_subtitulo4"
+	             android:layout_below="@+id/loc8"
+	             
+	             android:clickable="true"
+	             android:text="@string/localizaciones10"
+	             fuentes:fuente="Myriad" />
+
+	         <com.aranzazu.appnoites.CustomTextView
+	             android:id="@+id/loc4"
+	             style="@style/texto_subtitulo4"
+	             android:layout_alignRight="@+id/loc7"
+	             android:layout_below="@+id/loc14"
+	             android:text="@string/localizaciones5"
+	             fuentes:fuente="Myriad" />
+
+	         <com.aranzazu.appnoites.CustomTextView
+	             android:id="@+id/loc6"
+	             style="@style/texto_subtitulo4"
+	             android:layout_alignParentLeft="true"
+	             android:layout_below="@+id/loc2"
+	             android:clickable="true"
+	             android:text="@string/localizaciones7"
+	             fuentes:fuente="Myriad" />
+
+	         <com.aranzazu.appnoites.CustomTextView
+	             android:id="@+id/loc10"
+	             style="@style/texto_subtitulo4"
+	             android:layout_above="@+id/loc6"
+	             android:layout_alignRight="@+id/loc6"
+	             android:clickable="true"
+	             android:text="@string/localizaciones11"
+	             fuentes:fuente="Myriad" />
+
+	         <com.aranzazu.appnoites.CustomTextView
+	             android:id="@+id/loc11"
+	             style="@style/texto_subtitulo4"
+	             android:layout_above="@+id/loc6"
+	             android:layout_alignRight="@+id/loc7"
+	             android:clickable="true"
+	             android:text="@string/localizaciones12"
+	             fuentes:fuente="Myriad" />
+
+	         <com.aranzazu.appnoites.CustomTextView
+	             android:id="@+id/loc13"
+	             style="@style/texto_subtitulo4"
+	             android:layout_below="@+id/loc3"
+	             android:layout_toRightOf="@+id/loc5"
+	             android:clickable="true"
+	             android:text="@string/localizaciones14"
+	             fuentes:fuente="Myriad" />
+
+	         <com.aranzazu.appnoites.CustomTextView
+	             android:id="@+id/loc12"
+	             style="@style/texto_subtitulo4"
+	             android:layout_above="@+id/loc9"
+	             android:layout_toRightOf="@+id/loc3"
+	             android:clickable="true"
+	             android:text="@string/localizaciones13"
+	             fuentes:fuente="Myriad" />
+
+	     </RelativeLayout>
+
+	     <LinearLayout
+	         xmlns:fuentes="http://schemas.android.com/apk/res/com.example.appnoites"
+	         android:layout_width="match_parent"
+	         android:layout_height="match_parent"
+	         android:layout_gravity="center_horizontal"
+	         android:layout_margin="20dp"
+	         android:orientation="vertical" >
+
+	         <com.google.android.maps.MapView
+	             xmlns:android="http://schemas.android.com/apk/res/android"
+	             android:id="@+id/mapview"
+	             android:layout_width="match_parent"
+	             android:layout_height="match_parent"
+	             android:apiKey="0KQG97JfWEP9tNPib3noEril5gno8-82ydpeV5Q"
+	             android:clickable="true" />
+	     </LinearLayout>
+
+	     <com.aranzazu.appnoites.CustomTextView
+	         android:id="@+id/loc13"
+	         style="@style/texto_subtitulo4"
+	         android:layout_gravity="center_horizontal"
+	         android:layout_marginTop="34dp"
+	         android:clickable="true"
+	         android:onClick="mapa"
+	         android:text="Ver Localizacións de Noites Abertas nun mapa máis grande"
+	         fuentes:fuente="Myriad" />
+
+	 </LinearLayout>
+
+</ScrollView>
+
+    
+    
+
+    
+

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:fuentes="http://schemas.android.com/apk/res/com.aranzazu.appnoites"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:orientation="horizontal" >
+
+<LinearLayout
+  
+    android:layout_width="228dp"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:orientation="vertical"
+    android:weightSum="1" >
+
+    <Button
+        android:id="@+id/buttonp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/mancha_programa"
+        android:ellipsize="middle"
+        android:gravity="center|left"
+        android:onClick="sendMessagep"
+        android:paddingLeft="20dp"
+        android:text="  ACCEDE Á NOSA PROGRAMACIÓN"
+        android:textColor="#FF0066"
+        android:textSize="12sp"
+        android:textStyle="bold" />
+
+   <com.aranzazu.appnoites.CustomTextView
+        android:id="@+id/p2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dip"
+        android:layout_weight="0"
+        android:gravity="left"
+        android:text="@string/col11a"
+        android:textColor="@color/White"
+        android:textSize="12sp"
+        android:textStyle="normal"
+        android:typeface="serif"
+        fuentes:fuente="Myriad" />
+  <com.aranzazu.appnoites.CustomTextView
+         android:id="@+id/p2"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:layout_marginLeft="30dip"
+         android:layout_weight="0"
+         android:gravity="left"
+         android:text="@string/col11"
+         android:textColor="@color/White"
+         android:textSize="12sp"
+          android:clickable="true"
+        android:onClick="inicio"
+         android:textStyle="normal"
+         android:typeface="serif"
+         fuentes:fuente="Myriad" />
+  <com.aranzazu.appnoites.CustomTextView
+        android:id="@+id/p4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dip"
+        android:layout_marginRight="5dip"
+        android:gravity="left"
+        android:text="@string/col12"
+        android:textColor="#FF0066"
+        android:textColorLink="#FF0066"
+        android:textSize="12sp"
+        android:clickable="true"
+        android:onClick="inicio1"
+        android:textStyle="bold"
+        android:typeface="normal"
+        fuentes:fuente="Myriad" />
+  <com.aranzazu.appnoites.CustomTextView
+        android:id="@+id/p4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dip"
+        android:layout_marginRight="5dip"
+        android:gravity="left"
+        android:text="@string/col12a"
+        android:textColor="#FF0066"
+        android:textColorLink="#FF0066"
+        android:textSize="12sp"
+        android:textStyle="bold"
+        android:typeface="normal"
+         android:clickable="true"
+        android:onClick="inicio2"
+        fuentes:fuente="Myriad" />
+    
+ <com.aranzazu.appnoites.CustomTextView
+        android:id="@+id/p4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dip"
+        android:layout_marginRight="5dip"
+        android:gravity="left"
+        android:text="@string/col12b"
+        android:textColor="#FF0066"
+        android:textColorLink="#FF0066"
+        android:textSize="12sp"
+        android:textStyle="bold"
+        android:typeface="normal"
+         android:clickable="true"
+        android:onClick="inicio3"
+        fuentes:fuente="Myriad" />
+    
+   <com.aranzazu.appnoites.CustomTextView
+        android:id="@+id/p4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dip"
+        android:layout_marginRight="5dip"
+        android:gravity="left"
+        android:text="@string/col12c"
+        android:textColor="#FF0066"
+        android:textColorLink="#FF0066"
+        android:textSize="12sp"
+        android:textStyle="bold"
+        android:typeface="normal"
+         android:clickable="true"
+        android:onClick="inicio4"
+        fuentes:fuente="Myriad" />
+</LinearLayout>
+
+        <ImageView
+            android:id="@+id/p3"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/logos_libreta" />
+
+</LinearLayout>
